@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EXB-U2H103JV"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-09-14:04:34)
+    (mountForm default
+        (footprintRef "EXBU2H")
+        (spec "System")
+    )
+)

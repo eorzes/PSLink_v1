@@ -1,0 +1,17 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Class: Name=Match_SFP0_FAN
+Added Class: Name=Match_SFP1_FAN
+Added Differential Pair: Name=FPGA_RX0
+Added Differential Pair: Name=FPGA_RX1
+Added Differential Pair: Name=FPGA_TX0_C
+Added Differential Pair: Name=SFP_RX0
+Added Differential Pair: Name=SFP_RX1
+Added Differential Pair: Name=SFP_TX0
+Added Differential Pair: Name=SFP_TX1
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

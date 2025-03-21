@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SI5345B-D-GM"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-16-12:31:30)
+    (mountForm default
+        (footprintRef "QFN50P900X900X90-65N-D")
+        (spec "System")
+    )
+)

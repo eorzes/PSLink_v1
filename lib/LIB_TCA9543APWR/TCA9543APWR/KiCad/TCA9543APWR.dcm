@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9543APWR
+D 2-Channel I2C Bus Switch With Interrupt Logic and Reset
+K
+F http://www.ti.com/lit/gpn/tca9543a
+$ENDCMP
+#
+#End Doc Library

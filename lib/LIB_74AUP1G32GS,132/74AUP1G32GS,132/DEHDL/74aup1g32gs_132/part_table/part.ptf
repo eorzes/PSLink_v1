@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74AUP1G32GS_132'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "74AUP1G32GS,132" (!) = "", "74LVC1G3157GS132", "Other", "771-74AUP1G32GS132", "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74AUP1G32GS132", "74AUP1G32 - Low-power 2-input OR-gate@en-us", "https://componentsearchengine.com/Datasheets/1/74AUP1G32GS,132.pdf", "0.35 mm"
+END_PART
+
+END.

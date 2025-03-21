@@ -1,0 +1,20 @@
+.2007263-1 :1 ;Configuration Features: Number of Ports 2 | Port Matrix Configuration 1 x 2 | Dimensions: PCB Thickness (Recommended) 2.25 MM | PCB Thickness (Recommended) .089 INCH | Electrical Characteristics: Data Rate (Max) 16 GBS | Housing Features: Cage Material Nickel Silver | Operation/Application: Pluggable I/O Applications SFP+ | Heat Sink Compatible No | Other: Included Lightpipe No | EMI Containment Feature Type Internal/External EMI Springs | Packaging Features: Packaging Method Box | Product Type Features: Se
+"20072631"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=17 18=18 19=19 20=20 21=21 22=22 23=23 24=24 25=25 26=A1 27=A2 28=A3 29=A4 30=A5 31=A6 32=A7 33=A8 34=A9 35=A10 36=A11 37=A12 38=A13 39=A14 40=A15 41=A16 42=A17 43=A18 44=A19 45=A20 46=B1 47=B2 48=B3 49=B4 50=B5 51=B6 52=B7 53=B8 54=B9 55=B10 56=B11 57=B12 58=B13 59=B14 60=B15 61=B16 62=B17 63=B18 64=B19 65=B20
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="16" 17="17" 18="18" 19="19" 20="20" 21="21" 22="22" 23="23" 24="24" 25="25" 26="A1" 27="A2" 28="A3" 29="A4" 30="A5" 31="A6" 32="A7" 33="A8" 34="A9" 35="A10" 36="A11" 37="A12" 38="A13" 39="A14" 40="A15" 41="A16" 42="A17" 43="A18" 44="A19" 45="A20" 46="B1" 47="B2" 48="B3" 49="B4" 50="B5" 51="B6" 52="B7" 53="B8" 54="B9" 55="B10" 56="B11" 57="B12" &
+58="B13" 59="B14" 60="B15" 61="B16" 62="B17" 63="B18" 64="B19" 65="B20"
+*MXP 69
+*DFN 2007263-1
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (2007263-1)
+~!Mouser Part Number (571-2007263-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2007263-1?qs=4zF2lffhceF8GItBX4M8mw%3D%3D)
+~!Arrow Part Number (2007263-1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/2007263-1/te-connectivity?region=europe)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773455-3_Quick_Ref_Guide_SFP%2B_Sol&DocType=Data%20Sheet&DocLang=English&PartCntxt=2007263-1&DocFormat=pdf)
+~!Height (9.8mm)
+~!3D_Model (2007263-1)
+"2007263-1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 43.1!U 44.1!U 45.1!U 46.1!U 47.1!U 48.1!U 49.1!U 50.1!U 51.1!U 52.1!U 53.1!U 54.1!U 55.1!U 56.1!U 57.1!U 58.1!U 59.1!U 60.1!U 61.1!U 62.1!U 63.1!U 64.1!U 65.1!U 

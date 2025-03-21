@@ -1,0 +1,11 @@
+go to https://www.ultralibrarian.com/products/online-reader/
+
+upload the component.bxl file, select Altium Designer, convert and download
+
+on Altium, File > run script > browse > from file > select the component.PrjScr file downloaded before > open
+
+select the .PrjScr file from  the list > ok > file > component.txt file > start import
+
+
+
+https://app.ultralibrarian.com/content/help/index.htm?converting-ultra-librarian-dow.htm

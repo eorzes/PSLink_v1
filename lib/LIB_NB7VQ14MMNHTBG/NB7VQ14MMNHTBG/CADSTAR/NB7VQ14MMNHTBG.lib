@@ -1,0 +1,18 @@
+.NB7VQ14MMNHTBG :1 ;NB7VQ14MMNHTBG, Clock Generator CML, LVDS, LVPECL CML, 16-Pin QFN
+QFN50P300X300X100-17N
+*STM IC
+*NGS
+*PLB 1="IN" 2="VT" 3="VREFAC" 4="'IN'" 5="EQEN" 6="'Q3'" 7="Q3" 8="VCC_1" 9="'Q2'" 10="Q2" 11="'Q1'" 12="Q1" 13="VCC_2" 14="'Q0'" 15="Q0" 16="GND" 17="EP"
+*MXP 17
+*DFN NB7VQ14MMNHTBG
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NB7VQ14MMNHTBG)
+~!Mouser Part Number (863-NB7VQ14MMNHTBG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D)
+~!Arrow Part Number (NB7VQ14MMNHTBG)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF)
+~!Height (1mm)
+~!3D_Model (NB7VQ14MMNHTBG)
+NB7VQ14MMNHTBG
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

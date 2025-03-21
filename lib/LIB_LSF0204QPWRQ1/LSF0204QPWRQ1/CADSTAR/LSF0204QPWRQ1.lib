@@ -1,0 +1,16 @@
+.LSF0204QPWRQ1 :1 ;Automotive 4-Bit Bidirectional Multi-Voltage Level Translator for Open-Drain or Push- Pull Interface
+SOP65P640X120-14N
+*STM IC
+*NGS
+*PLB 1="VREF_A" 2="A1" 3="A2" 4="A3" 5="A4" 6="NC_1" 7="GND" 8="EN" 9="NC_2" 10="B4" 11="B3" 12="B2" 13="B1" 14="VREF_B"
+*MXP 14
+*DFN LSF0204QPWRQ1
+~!Mouser Part Number (595-LSF0204QPWRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LSF0204QPWRQ1?qs=w%2Fv1CP2dgqqt88p%2F1xId1A%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LSF0204QPWRQ1)
+~!Link Datasheet (http://www.ti.com/lit/gpn/lsf0204-q1)
+~!Height (1.2mm)
+~!3D_Model (LSF0204QPWRQ1)
+LSF0204QPWRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

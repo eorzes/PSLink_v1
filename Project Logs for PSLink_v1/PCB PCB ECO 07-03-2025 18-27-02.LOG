@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=ADJ_SCL Pin=R71-1
+Removed Pin From Net: NetName=VADJ Pin=R71-2
+Removed Pin From Net: NetName=ADJ_SDA Pin=R72-1
+Removed Pin From Net: NetName=VADJ Pin=R72-2
+Removed Pin From Net: NetName=NetIC11_3 Pin=R73-1
+Removed Pin From Net: NetName=VADJ Pin=R73-2
+Removed Member From Class: ClassName=U_FMC Member=R71
+Removed Member From Class: ClassName=U_FMC Member=R72
+Removed Member From Class: ClassName=U_FMC Member=R73
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=RN5(EXBU18)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EXB-U18103JX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EXB-U18103JX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EXB-U18103JX"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADJ_SDA Pin=RN5-2
+Added Pin To Net: NetName=ADJ_SCL Pin=RN5-3
+Added Pin To Net: NetName=NetIC11_3 Pin=RN5-4
+Added Pin To Net: NetName=VADJ Pin=RN5-5
+Added Pin To Net: NetName=VADJ Pin=RN5-6
+Added Pin To Net: NetName=VADJ Pin=RN5-7
+Added Pin To Net: NetName=VADJ Pin=RN5-8
+Added Member To Class: ClassName=U_FMC Member=Component RN5 EXB-U18103JX
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

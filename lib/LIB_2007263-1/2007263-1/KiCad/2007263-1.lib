@@ -1,0 +1,88 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 2007263-1
+#/429737/1532278/2.50/65/2/Connector
+DEF 2007263-1 J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "2007263-1" 850 200 50 H V L CNN
+F2 "20072631" 850 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773455-3_Quick_Ref_Guide_SFP%2B_Sol&DocType=Data%20Sheet&DocLang=English&PartCntxt=2007263-1&DocFormat=pdf" 850 0 50 H I L CNN
+F4 "Configuration Features: Number of Ports 2 | Port Matrix Configuration 1 x 2 | Dimensions: PCB Thickness (Recommended) 2.25 MM | PCB Thickness (Recommended) .089 INCH | Electrical Characteristics: Data Rate (Max) 16 GBS | Housing Features: Cage Material Nickel Silver | Operation/Application: Pluggable I/O Applications SFP+ | Heat Sink Compatible No | Other: Included Lightpipe No | EMI Containment Feature Type Internal/External EMI Springs | Packaging Features: Packaging Method Box | Product Type Features: Se" 850 -100 50 H I L CNN "Description"
+F5 "9.8" 850 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "2007263-1" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "571-2007263-1" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2007263-1?qs=4zF2lffhceF8GItBX4M8mw%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "2007263-1" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/2007263-1/te-connectivity?region=europe" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+X 10 10 0 -900 200 R 50 50 0 0 P
+X 11 11 0 -1000 200 R 50 50 0 0 P
+X 12 12 0 -1100 200 R 50 50 0 0 P
+X 13 13 0 -1200 200 R 50 50 0 0 P
+X 14 14 0 -1300 200 R 50 50 0 0 P
+X 15 15 0 -1400 200 R 50 50 0 0 P
+X 16 16 0 -1500 200 R 50 50 0 0 P
+X 17 17 0 -1600 200 R 50 50 0 0 P
+X 18 18 0 -1700 200 R 50 50 0 0 P
+X 19 19 0 -1800 200 R 50 50 0 0 P
+X 20 20 0 -1900 200 R 50 50 0 0 P
+X 21 21 0 -2000 200 R 50 50 0 0 P
+X 22 22 0 -2100 200 R 50 50 0 0 P
+X 23 23 0 -2200 200 R 50 50 0 0 P
+X 24 24 0 -2300 200 R 50 50 0 0 P
+X 25 25 0 -2400 200 R 50 50 0 0 P
+X A1 A1 0 -2500 200 R 50 50 0 0 P
+X A2 A2 0 -2600 200 R 50 50 0 0 P
+X A3 A3 0 -2700 200 R 50 50 0 0 P
+X A4 A4 0 -2800 200 R 50 50 0 0 P
+X A5 A5 0 -2900 200 R 50 50 0 0 P
+X A6 A6 0 -3000 200 R 50 50 0 0 P
+X A7 A7 0 -3100 200 R 50 50 0 0 P
+X A8 A8 0 -3200 200 R 50 50 0 0 P
+X A9 A9 1000 0 200 L 50 50 0 0 P
+X A10 A10 1000 -100 200 L 50 50 0 0 P
+X A11 A11 1000 -200 200 L 50 50 0 0 P
+X A12 A12 1000 -300 200 L 50 50 0 0 P
+X A13 A13 1000 -400 200 L 50 50 0 0 P
+X A14 A14 1000 -500 200 L 50 50 0 0 P
+X A15 A15 1000 -600 200 L 50 50 0 0 P
+X A16 A16 1000 -700 200 L 50 50 0 0 P
+X A17 A17 1000 -800 200 L 50 50 0 0 P
+X A18 A18 1000 -900 200 L 50 50 0 0 P
+X A19 A19 1000 -1000 200 L 50 50 0 0 P
+X A20 A20 1000 -1100 200 L 50 50 0 0 P
+X B1 B1 1000 -1200 200 L 50 50 0 0 P
+X B2 B2 1000 -1300 200 L 50 50 0 0 P
+X B3 B3 1000 -1400 200 L 50 50 0 0 P
+X B4 B4 1000 -1500 200 L 50 50 0 0 P
+X B5 B5 1000 -1600 200 L 50 50 0 0 P
+X B6 B6 1000 -1700 200 L 50 50 0 0 P
+X B7 B7 1000 -1800 200 L 50 50 0 0 P
+X B8 B8 1000 -1900 200 L 50 50 0 0 P
+X B9 B9 1000 -2000 200 L 50 50 0 0 P
+X B10 B10 1000 -2100 200 L 50 50 0 0 P
+X B11 B11 1000 -2200 200 L 50 50 0 0 P
+X B12 B12 1000 -2300 200 L 50 50 0 0 P
+X B13 B13 1000 -2400 200 L 50 50 0 0 P
+X B14 B14 1000 -2500 200 L 50 50 0 0 P
+X B15 B15 1000 -2600 200 L 50 50 0 0 P
+X B16 B16 1000 -2700 200 L 50 50 0 0 P
+X B17 B17 1000 -2800 200 L 50 50 0 0 P
+X B18 B18 1000 -2900 200 L 50 50 0 0 P
+X B19 B19 1000 -3000 200 L 50 50 0 0 P
+X B20 B20 1000 -3100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -3300 200 -3300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

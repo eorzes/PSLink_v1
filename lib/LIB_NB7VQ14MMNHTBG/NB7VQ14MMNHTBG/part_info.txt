@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NB7VQ14MMNHTBG
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=17
+Version=3.1
+Released=2015-08-14 09:50:01
+Downloaded=2024-11-11 15:53:56
+3D=Y

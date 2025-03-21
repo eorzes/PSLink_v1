@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SI5345B_D_GM'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Skyworks", "SI5345B-D-GM" (!) = "", "QFN50P900X900X90-65N-D", "Quad Flat No-Lead", "634-SI5345B-D-GM", "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SI5345B-D-GM?qs=p9T7GgSe1IGHqFUKlxUKrA%3D%3D", "Clock Synthesizer / Jitter Cleaner Low-jitter, 10-output, any frequency (< 350 MHz), any output jitter attenuator", "https://www.mouser.sg/datasheet/2/472/si5345_44_42_d_datasheet-2507675.pdf", "0.9 mm"
+END_PART
+
+END.

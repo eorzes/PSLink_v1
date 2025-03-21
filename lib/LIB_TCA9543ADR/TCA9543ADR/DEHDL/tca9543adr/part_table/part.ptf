@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCA9543ADR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCA9543ADR" (!) = "", "SOIC127P600X175-14N", "Small Outline Packages", "595-TCA9543ADR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCA9543ADR?qs=WuTGPxIYnC6YhvyolILbYg%3D%3D", "2-Channel I2C Bus Switch With Interrupt Logic and Reset", "http://www.ti.com/lit/gpn/tca9543a", "1.75 mm"
+END_PART
+
+END.

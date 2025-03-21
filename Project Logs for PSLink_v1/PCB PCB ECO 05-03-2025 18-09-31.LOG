@@ -1,0 +1,104 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=C140_Ch0(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C140_Ch1(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C140_Ch2(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C140_Ch3(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C141_Ch0(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C141_Ch1(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C141_Ch2(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C141_Ch3(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C142_Ch0(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C142_Ch1(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C142_Ch2(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C142_Ch3(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C143_Ch0(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C143_Ch1(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C143_Ch2(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C143_Ch3(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C144_Ch0(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C144_Ch1(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C144_Ch2(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C144_Ch3(CAPC0510X04N)
+Add component (AddParameter): Name = "Value"; Value = "470nF"; VariantName = "[No Variations]"
+Added Component: Designator=C145_Ch0(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C145_Ch1(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C145_Ch2(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C145_Ch3(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C140_Ch0-1
+Added Pin To Net: NetName=3V3CDR Pin=C140_Ch0-2
+Added Pin To Net: NetName=GND Pin=C140_Ch1-1
+Added Pin To Net: NetName=3V3CDR Pin=C140_Ch1-2
+Added Pin To Net: NetName=GND Pin=C140_Ch2-1
+Added Pin To Net: NetName=3V3CDR Pin=C140_Ch2-2
+Added Pin To Net: NetName=GND Pin=C140_Ch3-1
+Added Pin To Net: NetName=3V3CDR Pin=C140_Ch3-2
+Added Pin To Net: NetName=GND Pin=C141_Ch0-1
+Added Pin To Net: NetName=3V3CDR Pin=C141_Ch0-2
+Added Pin To Net: NetName=GND Pin=C141_Ch1-1
+Added Pin To Net: NetName=3V3CDR Pin=C141_Ch1-2
+Added Pin To Net: NetName=GND Pin=C141_Ch2-1
+Added Pin To Net: NetName=3V3CDR Pin=C141_Ch2-2
+Added Pin To Net: NetName=GND Pin=C141_Ch3-1
+Added Pin To Net: NetName=3V3CDR Pin=C141_Ch3-2
+Added Pin To Net: NetName=GND Pin=C142_Ch0-1
+Added Pin To Net: NetName=3V3CDR Pin=C142_Ch0-2
+Added Pin To Net: NetName=GND Pin=C142_Ch1-1
+Added Pin To Net: NetName=3V3CDR Pin=C142_Ch1-2
+Added Pin To Net: NetName=GND Pin=C142_Ch2-1
+Added Pin To Net: NetName=3V3CDR Pin=C142_Ch2-2
+Added Pin To Net: NetName=GND Pin=C142_Ch3-1
+Added Pin To Net: NetName=3V3CDR Pin=C142_Ch3-2
+Added Pin To Net: NetName=GND Pin=C143_Ch0-1
+Added Pin To Net: NetName=3V3CDR Pin=C143_Ch0-2
+Added Pin To Net: NetName=GND Pin=C143_Ch1-1
+Added Pin To Net: NetName=3V3CDR Pin=C143_Ch1-2
+Added Pin To Net: NetName=GND Pin=C143_Ch2-1
+Added Pin To Net: NetName=3V3CDR Pin=C143_Ch2-2
+Added Pin To Net: NetName=GND Pin=C143_Ch3-1
+Added Pin To Net: NetName=3V3CDR Pin=C143_Ch3-2
+Added Pin To Net: NetName=GND Pin=C144_Ch0-1
+Added Pin To Net: NetName=3V3CDR Pin=C144_Ch0-2
+Added Pin To Net: NetName=GND Pin=C144_Ch1-1
+Added Pin To Net: NetName=3V3CDR Pin=C144_Ch1-2
+Added Pin To Net: NetName=GND Pin=C144_Ch2-1
+Added Pin To Net: NetName=3V3CDR Pin=C144_Ch2-2
+Added Pin To Net: NetName=GND Pin=C144_Ch3-1
+Added Pin To Net: NetName=3V3CDR Pin=C144_Ch3-2
+Added Pin To Net: NetName=GND Pin=C145_Ch0-1
+Added Pin To Net: NetName=3V3CDR Pin=C145_Ch0-2
+Added Pin To Net: NetName=GND Pin=C145_Ch1-1
+Added Pin To Net: NetName=3V3CDR Pin=C145_Ch1-2
+Added Pin To Net: NetName=GND Pin=C145_Ch2-1
+Added Pin To Net: NetName=3V3CDR Pin=C145_Ch2-2
+Added Pin To Net: NetName=GND Pin=C145_Ch3-1
+Added Pin To Net: NetName=3V3CDR Pin=C145_Ch3-2
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

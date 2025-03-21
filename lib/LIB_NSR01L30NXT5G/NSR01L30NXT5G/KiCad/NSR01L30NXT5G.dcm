@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NSR01L30NXT5G
+D Low Forward Voltage Drop; Low Reverse Current; Very High Switching Speed; Reverse Voltage and Current Protection
+K
+F https://www.onsemi.com/pub/Collateral/NSR01L30-D.PDF
+$ENDCMP
+#
+#End Doc Library

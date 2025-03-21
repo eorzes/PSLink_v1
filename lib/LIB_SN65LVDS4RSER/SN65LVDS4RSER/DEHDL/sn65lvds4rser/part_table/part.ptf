@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN65LVDS4RSER'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN65LVDS4RSER" (!) = "", "SN65LVDS4RSER", "Other", "595-SN65LVDS4RSER", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65LVDS4RSER?qs=kO%2FAGeZgcF8xT3dfx7gx%252Bg%3D%3D", "500 Mbps LVDS Single High Speed Transceiver", "http://www.ti.com/lit/gpn/SN65LVDS4", "0.6 mm"
+END_PART
+
+END.

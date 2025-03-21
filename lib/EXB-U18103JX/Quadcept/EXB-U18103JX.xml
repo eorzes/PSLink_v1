@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/2377475/1532278/2.50/8/2/Resistor Network (8-Pin)/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="r30_17.5" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="rectangle" width="6.8897637795275" height="11.811023622047" />
+    <padshape layer="TOP_SOLDER_MASK" shape="rectangle" width="14.763779527559" height="19.685039370078" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="rectangle" width="6.8897637795275" height="11.811023622047" />
+  </padstyle>
+  <footprint name="EXBU18" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="r30_17.5" originx="-23.622047244094" originy="-10.826771653543" rotation="0" />
+    <pcbpin number="2" name="2" style="r30_17.5" originx="-7.8740157480314" originy="-10.826771653543" rotation="0" />
+    <pcbpin number="3" name="3" style="r30_17.5" originx="7.8740157480314" originy="-10.826771653543" rotation="0" />
+    <pcbpin number="4" name="4" style="r30_17.5" originx="23.622047244094" originy="-10.826771653543" rotation="0" />
+    <pcbpin number="5" name="5" style="r30_17.5" originx="23.622047244094" originy="10.826771653543" rotation="0" />
+    <pcbpin number="6" name="6" style="r30_17.5" originx="7.8740157480314" originy="10.826771653543" rotation="0" />
+    <pcbpin number="7" name="7" style="r30_17.5" originx="-7.8740157480314" originy="10.826771653543" rotation="0" />
+    <pcbpin number="8" name="8" style="r30_17.5" originx="-23.622047244094" originy="10.826771653543" rotation="0" />
+    <line layer="TOP_ASSEMBLY" originx="-27.55905511811" originy="11.811023622047" endx="27.55905511811" endy="11.811023622047" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="27.55905511811" originy="11.811023622047" endx="27.55905511811" endy="-11.811023622047" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="27.55905511811" originy="-11.811023622047" endx="-27.55905511811" endy="-11.811023622047" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-27.55905511811" originy="-11.811023622047" endx="-27.55905511811" endy="11.811023622047" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-47.244094488188" originy="-10.826771653543" startangle="180" sweepangle="180" radius="1.9685039370079" width="7.8740157480314" />
+    <arc layer="TOP_SILKSCREEN" originx="-47.244094488188" originy="-10.826771653543" startangle="180" sweepangle="-180" radius="1.9685039370079" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-66.929133858267" originy="51.181102362204" endx="66.929133858267" endy="51.181102362204" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="66.929133858267" originy="51.181102362204" endx="66.929133858267" endy="-51.181102362204" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="66.929133858267" originy="-51.181102362204" endx="-66.929133858267" endy="-51.181102362204" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="-66.929133858267" originy="-51.181102362204" endx="-66.929133858267" endy="51.181102362204" width="1.9685039370079" />
+  </footprint>
+  <symbol name="EXB-U18103JX" originx="0" originy="0">
+    <line originx="200" originy="100" endx="1000" endy="100" width="0" />
+    <line originx="1000" originy="-400" endx="1000" endy="100" width="0" />
+    <line originx="1000" originy="-400" endx="200" endy="-400" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-400" width="0" />
+    <line originx="250" originy="-50" endx="250" endy="-250" width="0" />
+    <line originx="350" originy="-250" endx="250" endy="-250" width="0" />
+    <line originx="350" originy="-250" endx="350" endy="-50" width="0" />
+    <line originx="250" originy="-50" endx="350" endy="-50" width="0" />
+    <line originx="450" originy="-50" endx="450" endy="-250" width="0" />
+    <line originx="550" originy="-250" endx="450" endy="-250" width="0" />
+    <line originx="550" originy="-250" endx="550" endy="-50" width="0" />
+    <line originx="450" originy="-50" endx="550" endy="-50" width="0" />
+    <line originx="300" originy="-50" endx="300" endy="100" width="0" />
+    <line originx="300" originy="-250" endx="300" endy="-400" width="0" />
+    <line originx="500" originy="-250" endx="500" endy="-400" width="0" />
+    <line originx="500" originy="-50" endx="500" endy="100" width="0" />
+    <line originx="700" originy="-50" endx="700" endy="100" width="0" />
+    <line originx="650" originy="-50" endx="650" endy="-250" width="0" />
+    <line originx="750" originy="-250" endx="650" endy="-250" width="0" />
+    <line originx="750" originy="-250" endx="750" endy="-50" width="0" />
+    <line originx="650" originy="-50" endx="750" endy="-50" width="0" />
+    <line originx="700" originy="-250" endx="700" endy="-400" width="0" />
+    <line originx="900" originy="-50" endx="900" endy="100" width="0" />
+    <line originx="850" originy="-50" endx="850" endy="-250" width="0" />
+    <line originx="950" originy="-250" endx="850" endy="-250" width="0" />
+    <line originx="950" originy="-250" endx="950" endy="-50" width="0" />
+    <line originx="850" originy="-50" endx="950" endy="-50" width="0" />
+    <line originx="900" originy="-250" endx="900" endy="-400" width="0" />
+    <sympin number="1" originx="300" originy="-400" rotation="270" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="300" originy="-370" style="Default" rotation="0" justify="left" flipped="False" hidden="True" data="1" />
+      <text name="pindes" originx="280" originy="-460" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="500" originy="-400" rotation="270" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="500" originy="-370" style="Default" rotation="0" justify="left" flipped="False" hidden="True" data="2" />
+      <text name="pindes" originx="480" originy="-460" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="700" originy="-400" rotation="270" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="700" originy="-370" style="Default" rotation="0" justify="left" flipped="False" hidden="True" data="3" />
+      <text name="pindes" originx="680" originy="-460" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="900" originy="-400" rotation="270" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="900" originy="-370" style="Default" rotation="0" justify="left" flipped="False" hidden="True" data="4" />
+      <text name="pindes" originx="880" originy="-460" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="4" />
+    </sympin>
+    <sympin number="5" originx="900" originy="100" rotation="90" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="900" originy="70" style="Default" rotation="0" justify="right" flipped="False" hidden="True" data="5" />
+      <text name="pindes" originx="880" originy="160" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="5" />
+    </sympin>
+    <sympin number="6" originx="700" originy="100" rotation="90" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="700" originy="70" style="Default" rotation="0" justify="right" flipped="False" hidden="True" data="6" />
+      <text name="pindes" originx="680" originy="160" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="6" />
+    </sympin>
+    <sympin number="7" originx="500" originy="100" rotation="90" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="500" originy="70" style="Default" rotation="0" justify="right" flipped="False" hidden="True" data="7" />
+      <text name="pindes" originx="480" originy="160" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="7" />
+    </sympin>
+    <sympin number="8" originx="300" originy="100" rotation="90" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="300" originy="70" style="Default" rotation="0" justify="right" flipped="False" hidden="True" data="8" />
+      <text name="pindes" originx="280" originy="160" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="8" />
+    </sympin>
+  </symbol>
+  <component name="EXB-U18103JX" designatorprefix="RN" height="17.716535433071" footprint="EXBU18">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="3" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="4" />
+    <comppin designator="5" sympin="5" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="5" />
+    <comppin designator="6" sympin="6" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="6" />
+    <comppin designator="7" sympin="7" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="7" />
+    <comppin designator="8" sympin="8" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="8" />
+    <attached_symbol gate="1" name="EXB-U18103JX" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <pinmap designator="5" footprintpin="5" />
+    <pinmap designator="6" footprintpin="6" />
+    <pinmap designator="7" footprintpin="7" />
+    <pinmap designator="8" footprintpin="8" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://componentsearchengine.com/Datasheets/1/EXB-U18103JX.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.031, Chip Size (LxW) (mm): 1.4 X 0.6, Resistance Values (?): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.4, Type of Circuit: Isolated Circuit, Number of Elements (piece): 4, T.C.R (?108/K): ?200, Number of Terminals (piece): 8" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="667-EXB-U18103JX" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.com/Search/Refine.aspx?Keyword=667-EXB-U18103JX" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Panasonic" />
+    <text name="Manufacturer_Part_Number" originx="1020" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="EXB-U18103JX" />
+  </component>
+</quadcept_library>

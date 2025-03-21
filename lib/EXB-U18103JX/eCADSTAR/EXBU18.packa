@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EXB-U18103JX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-09-09:01:40)
+    (mountForm default
+        (footprintRef "EXBU18")
+        (spec "System")
+    )
+)

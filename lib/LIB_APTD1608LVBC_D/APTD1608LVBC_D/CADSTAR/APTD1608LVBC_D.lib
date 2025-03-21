@@ -1,0 +1,16 @@
+.APTD1608LVBC_D :1 ;Blue 470nm LED Indication - Discrete 2.65V 0603 (1608 Metric)
+LEDC1608X110N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN APTD1608LVBC_D
+~!Mouser Part Number (604-APTD1608LVBCD)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Kingbright/APTD1608LVBC-D?qs=6oMev5NRZMEfNSg5xIhlKA%3D%3D)
+~!Manufacturer_Name (Kingbright)
+~!Manufacturer_Part_Number (APTD1608LVBC/D)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/APTD1608LVBC_D.pdf)
+~!Height (1.1mm)
+~!3D_Model (APTD1608LVBC_D)
+APTD1608LVBC_D
+1.1!U 2.1!U 

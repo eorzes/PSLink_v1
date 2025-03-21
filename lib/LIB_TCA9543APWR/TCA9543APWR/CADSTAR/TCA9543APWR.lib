@@ -1,0 +1,16 @@
+.TCA9543APWR :1 ;2-Channel I2C Bus Switch With Interrupt Logic and Reset
+SOP65P640X120-14N
+*STM IC
+*NGS
+*PLB 1="A0" 2="A1" 3="'RESET'" 4="'INT0'" 5="SD0" 6="SC0" 7="GND" 8="'INT1'" 9="SD1" 10="SC1" 11="'INT'" 12="SCL" 13="SDA" 14="VCC"
+*MXP 14
+*DFN TCA9543APWR
+~!Mouser Part Number (595-TCA9543APWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCA9543APWR?qs=p08Uhw9w2Fzm36ZpNDVXHw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCA9543APWR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tca9543a)
+~!Height (1.2mm)
+~!3D_Model (TCA9543APWR)
+TCA9543APWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

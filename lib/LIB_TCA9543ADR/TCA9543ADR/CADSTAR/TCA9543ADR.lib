@@ -1,0 +1,16 @@
+.TCA9543ADR :1 ;2-Channel I2C Bus Switch With Interrupt Logic and Reset
+SOIC127P600X175-14N
+*STM IC
+*NGS
+*PLB 1="A0" 2="A1" 3="'RESET'" 4="'INT0'" 5="SD0" 6="SC0" 7="GND" 8="'INT1'" 9="SD1" 10="SC1" 11="'INT'" 12="SCL" 13="SDA" 14="VCC"
+*MXP 14
+*DFN TCA9543ADR
+~!Mouser Part Number (595-TCA9543ADR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCA9543ADR?qs=WuTGPxIYnC6YhvyolILbYg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCA9543ADR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tca9543a)
+~!Height (1.75mm)
+~!3D_Model (TCA9543ADR)
+TCA9543ADR
+1.1!I 2.1!I 3.1!I 4.1!I 5.1!U 6.1!U 7.1!G 14.1!P 13.1!U 12.1!U 11.1!I 10.1!U 9.1!U 8.1!I 

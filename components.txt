@@ -1,0 +1,18 @@
+Led Blue 0603 2mA 2.65V 65mcd 120mW
+APTD1608LVBC/D
+
+Led Green 0402 2mA 2.65V 40mcd 102mW
+APHHS1005LZGCK-V
+
+Led Red 0603 2mA 1.8V 50mcd 84mW
+APTD1608LSECK/J3-PF
+
+Led Yellow 2mA 1.8V 12mcd 40mW
+VLMY30K2M1-GS08
+
+(DesignItemId Like '*100nF*')
+
+(Description Like '*GRM155R60J226ME11*')
+
+Using MuRata Multilayer Ceramic Capacitors viewing tool
+https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us&jis=false&md5=e717cd7bfbb8debb81bc21d5ac92705b

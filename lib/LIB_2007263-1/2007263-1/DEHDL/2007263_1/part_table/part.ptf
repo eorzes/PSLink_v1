@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2007263_1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2007263-1" (!) = "", "20072631", "Other", "571-2007263-1", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2007263-1?qs=4zF2lffhceF8GItBX4M8mw%3D%3D", "2007263-1", "https://www.arrow.com/en/products/2007263-1/te-connectivity?region=europe", "Configuration Features: Number of Ports 2 | Port Matrix Configuration 1 x 2 | Dimensions: PCB Thickness (Recommended) 2.25 MM | PCB Thickness (Recommended) .089 INCH | Electrical Characteristics: Data Rate (Max) 16 GBS | Housing Features: Cage Material Nickel Silver | Operation/Application: Pluggable I/O Applications SFP+ | Heat Sink Compatible No | Other: Included Lightpipe No | EMI Containment Feature Type Internal/External EMI Springs | Packaging Features: Packaging Method Box | Product Type Features: Se", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773455-3_Quick_Ref_Guide_SFP%2B_Sol&DocType=Data%20Sheet&DocLang=English&PartCntxt=2007263-1&DocFormat=pdf", "9.8 mm"
+END_PART
+
+END.

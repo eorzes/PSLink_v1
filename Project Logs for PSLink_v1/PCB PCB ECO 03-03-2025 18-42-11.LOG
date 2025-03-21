@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=1V8 Pin=W1_Ch0-1
+Removed Pin From Net: NetName=1V8 Pin=W1_Ch1-1
+Removed Pin From Net: NetName=1V8 Pin=W1_Ch2-1
+Removed Pin From Net: NetName=1V8 Pin=W1_Ch3-1
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Net Color : Old Net Color=Black New Net Color=White
+Change Net Color : Old Net Color=Black New Net Color=White
+Added Pin To Net: NetName=EQ0_EN Pin=IC2_Ch0-5
+Added Pin To Net: NetName=EQ0_EN Pin=J4-H8
+Added Net: Name=EQ0_EN
+Added Pin To Net: NetName=EQ1_EN Pin=IC2_Ch1-5
+Added Pin To Net: NetName=EQ1_EN Pin=J4-G9
+Added Net: Name=EQ1_EN
+Added Pin To Net: NetName=EQ2_EN Pin=IC2_Ch2-5
+Added Pin To Net: NetName=EQ2_EN Pin=J4-G10
+Added Net: Name=EQ2_EN
+Added Pin To Net: NetName=EQ3_EN Pin=IC2_Ch3-5
+Added Pin To Net: NetName=EQ3_EN Pin=J4-H7
+Added Net: Name=EQ3_EN
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

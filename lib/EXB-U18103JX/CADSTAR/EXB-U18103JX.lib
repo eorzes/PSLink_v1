@@ -1,0 +1,16 @@
+.EXB-U18103JX :1 ;Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.031, Chip Size (LxW) (mm): 1.4 X 0.6, Resistance Values (?): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.4, Type of Circuit: Isolated Circuit, Number of Elements (piece): 4, T.C.R (?108/K): ?200, Number of Terminals (piece): 8
+EXBU18
+*STM RN
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8"
+*MXP 8
+*DFN EXB-U18103JX
+~!Mouser Part Number (667-EXB-U18103JX)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=667-EXB-U18103JX)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EXB-U18103JX)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/EXB-U18103JX.pdf)
+~!Height (0.45mm)
+~!3D_Model (EXB-U18103JX)
+EXB-U18103JX
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

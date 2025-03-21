@@ -1,0 +1,16 @@
+.EXB-U2H103JV :1 ;Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.063, Chip Size (LxW) (mm): 3.8 X 1.6, Resistance Values (): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.5, Type of Circuit: Isolated Circuit, Number of Elements (piece): 8, T.C.R (10/K): +/-200, Number of Terminals (piece): 16
+EXBU2H
+*STM RN
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="16"
+*MXP 16
+*DFN EXB-U2H103JV
+~!Mouser Part Number (667-EXB-U2H103JV)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/EXB-U2H103JV?qs=Z3CaLxJiOJJ7jC1v10U%2Fjw%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EXB-U2H103JV)
+~!Link Datasheet (https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf)
+~!Height (0.55mm)
+~!3D_Model (EXB-U2H103JV)
+EXB-U2H103JV
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

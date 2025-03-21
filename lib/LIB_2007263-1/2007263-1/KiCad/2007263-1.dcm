@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2007263-1
+D Configuration Features: Number of Ports 2 | Port Matrix Configuration 1 x 2 | Dimensions: PCB Thickness (Recommended) 2.25 MM | PCB Thickness (Recommended) .089 INCH | Electrical Characteristics: Data Rate (Max) 16 GBS | Housing Features: Cage Material Nickel Silver | Operation/Application: Pluggable I/O Applications SFP+ | Heat Sink Compatible No | Other: Included Lightpipe No | EMI Containment Feature Type Internal/External EMI Springs | Packaging Features: Packaging Method Box | Product Type Features: Se
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773455-3_Quick_Ref_Guide_SFP%2B_Sol&DocType=Data%20Sheet&DocLang=English&PartCntxt=2007263-1&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library

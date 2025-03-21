@@ -1,0 +1,16 @@
+.NSR01L30NXT5G :1 ;Low Forward Voltage Drop; Low Reverse Current; Very High Switching Speed; Reverse Voltage and Current Protection
+NSR01L30NXT5G
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN NSR01L30NXT5G
+~!Mouser Part Number (863-NSR01L30NXT5G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NSR01L30NXT5G?qs=hct%2FbkRa1SYLGc3bt5tuhA%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NSR01L30NXT5G)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/NSR01L30-D.PDF)
+~!Height (0.3mm)
+~!3D_Model (NSR01L30NXT5G)
+NSR01L30NXT5G
+1.1!U 2.1!U 

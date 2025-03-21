@@ -1,0 +1,110 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=U_phase-shifters Member=Component *1 DCPS3
+Added Member To Class: ClassName=U_FMC Member=Component C101 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C102 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C103 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C104 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C105 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C106 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C107 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C108 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C109 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C110 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C111 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C112 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C113 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C114 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C115 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C116 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C117 470nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C118 33nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C119 470nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C120 33nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C121 470nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C122 33nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C123 22uF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C124 470nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C125 33nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C126 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C127 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C128 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C129 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C130 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C131 470nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C132 33nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C133 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C134 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C135 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C136 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C137 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C138 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component C139 100nF
+Added Member To Class: ClassName=U_phase-shifters Member=Component IC12 SN65LVDS4RSER
+Added Member To Class: ClassName=U_phase-shifters Member=Component Q13 CSD15380F3
+Added Member To Class: ClassName=U_FMC Member=Component R68 10k
+Added Member To Class: ClassName=U_FMC Member=Component R69 10k
+Added Member To Class: ClassName=U_FMC Member=Component R70 10k
+Added Member To Class: ClassName=U_FMC Member=Component R71 10k
+Added Member To Class: ClassName=U_FMC Member=Component R72 10k
+Added Member To Class: ClassName=U_FMC Member=Component R73 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R74 200k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R75 1M
+Added Member To Class: ClassName=U_phase-shifters Member=Component R76 100O
+Added Member To Class: ClassName=U_phase-shifters Member=Component R77 1M
+Added Member To Class: ClassName=U_phase-shifters Member=Component R78 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R79 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R80 200k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R81 1M
+Added Member To Class: ClassName=U_phase-shifters Member=Component R82 200k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R83 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R84 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R85 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R86 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component RN3 EXB-28V105JX
+Added Member To Class: ClassName=U_FMC Member=Component U3 TXB0104RUTR
+Added Member To Class: ClassName=U_FMC Member=Component U4 TXB0104RUTR
+Added Member To Class: ClassName=U_phase-shifters Member=Component U5 SY89297UMG-TR
+Added Member To Class: ClassName=U_phase-shifters Member=Component U6 SN74AUC2G241YZPR
+Added Member To Class: ClassName=U_phase-shifters Member=Component U7 TXB0104RUTR
+Added Member To Class: ClassName=U_phase-shifters Member=Component U8 TCA39306DTMR
+Added Member To Class: ClassName=U_phase-shifters Member=Component U9 SN74AUP1G125DPWR
+Added Member To Class: ClassName=Power Member=Wire 1VPSF
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch0_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch0_P
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch1_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch1_P
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch2_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch2_P
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch3_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_C_Ch3_P
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch0_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch0_P
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch1_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch1_P
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch2_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch2_P
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch3_N
+Added Member To Class: ClassName=Match_CDR_DFF Member=Wire CLOCK_OUT_Ch3_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch0_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch0_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch1_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch1_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch2_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch2_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch3_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire DATA_IN_C_Ch3_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch0_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch0_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch1_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch1_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch2_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch2_P
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch3_N
+Added Member To Class: ClassName=Match_FAN_CDR Member=Wire IN_Ch3_P
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

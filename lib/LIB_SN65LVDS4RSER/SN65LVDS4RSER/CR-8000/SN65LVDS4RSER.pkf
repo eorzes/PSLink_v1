@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SN65LVDS4RSER"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SN65LVDS4RSER")
+        (spec "default")
+    )
+)

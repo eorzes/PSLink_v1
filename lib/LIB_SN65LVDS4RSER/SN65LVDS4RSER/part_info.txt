@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN65LVDS4RSER
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=10
+Version=1.5
+Released=2020-06-10 13:04:49
+Downloaded=2025-02-14 15:57:04
+3D=Y

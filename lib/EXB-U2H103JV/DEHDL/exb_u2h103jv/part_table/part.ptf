@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EXB_U2H103JV'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EXB-U2H103JV" (!) = "", "EXBU2H", "Other", "667-EXB-U2H103JV", "https://www.mouser.co.uk/ProductDetail/Panasonic/EXB-U2H103JV?qs=Z3CaLxJiOJJ7jC1v10U%2Fjw%3D%3D", "Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.063, Chip Size (LxW) (mm): 3.8 X 1.6, Resistance Values (): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.5, Type of Circuit: Isolated Circuit, Number of Elements (piece): 8, T.C.R (10/K): +/-200, Number of Terminals (piece): 16", "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf", "0.55 mm"
+END_PART
+
+END.

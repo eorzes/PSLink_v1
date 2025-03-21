@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TCA9543APWR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=2.4
+Released=2017-09-26 10:46:35
+Downloaded=2025-02-20 13:07:46
+3D=Y

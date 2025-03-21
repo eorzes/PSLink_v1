@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI5345B-D-GM
+D Clock Synthesizer / Jitter Cleaner Low-jitter, 10-output, any frequency (< 350 MHz), any output jitter attenuator
+K
+F https://www.mouser.sg/datasheet/2/472/si5345_44_42_d_datasheet-2507675.pdf
+$ENDCMP
+#
+#End Doc Library

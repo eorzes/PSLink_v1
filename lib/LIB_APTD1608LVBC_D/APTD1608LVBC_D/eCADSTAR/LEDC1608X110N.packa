@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "APTD1608LVBC_D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-03-04:34:50)
+    (mountForm default
+        (footprintRef "LEDC1608X110N")
+        (spec "System")
+    )
+)

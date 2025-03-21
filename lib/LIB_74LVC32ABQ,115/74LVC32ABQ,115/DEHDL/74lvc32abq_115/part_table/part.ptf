@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74LVC32ABQ_115'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "74LVC32ABQ,115" (!) = "", "74LVC32ABQ115", "Other", "771-74LVC32ABQ-G", "https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC32ABQ115?qs=me8TqzrmIYVhxXge93dmrA%3D%3D", "74LVC32A - Quad 2-input OR gate@en-us", "https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf", "1 mm"
+END_PART
+
+END.

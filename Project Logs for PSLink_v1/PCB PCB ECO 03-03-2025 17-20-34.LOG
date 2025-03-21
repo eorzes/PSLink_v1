@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=J1-A1
+Removed Pin From Net: NetName=GND Pin=J1-A10
+Removed Pin From Net: NetName=GND Pin=J1-A11
+Removed Pin From Net: NetName=GND Pin=J1-A14
+Removed Pin From Net: NetName=GND Pin=J1-A17
+Removed Pin From Net: NetName=GND Pin=J1-A20
+Removed Pin From Net: NetName=GND Pin=J1-B1
+Removed Pin From Net: NetName=GND Pin=J1-B10
+Removed Pin From Net: NetName=GND Pin=J1-B11
+Removed Pin From Net: NetName=GND Pin=J1-B14
+Removed Pin From Net: NetName=GND Pin=J1-B17
+Removed Pin From Net: NetName=GND Pin=J1-B20
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Component Footprint: Designator=J1 Old Footprint=20072631 New Footprint=20072631_NP
+Change Component Comment : Designator=J1 Old Comment=2007263-1 New Comment=2007263-1_NP
+Added Pin To Net: NetName=GND Pin=J1-26
+Added Pin To Net: NetName=GND Pin=J1-27
+Added Pin To Net: NetName=GND Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-31
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=GND Pin=J1-33
+Added Pin To Net: NetName=GND Pin=J1-34
+Added Pin To Net: NetName=GND Pin=J1-35
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=GND Pin=J1-37
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

@@ -1,0 +1,9 @@
+Manufacturer=Kingbright
+PartNumber=APTD1608LVBC/D
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=1.1
+Released=2020-02-03 04:34:50
+Downloaded=2024-12-13 12:15:24
+3D=Y

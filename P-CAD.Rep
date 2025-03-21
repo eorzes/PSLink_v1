@@ -1,0 +1,231 @@
+Export log for : P-CAD.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle P:EX197Y197D1261
+AddingPadStyle EF4X15TOP1
+AddingPadStyle EF14X5TOP1
+AddingPadStyle P:EX67Y67D391
+AddingPadStyle P:SX67Y67D391
+AddingPadStyle EF67X24TOP1
+AddingPadStyle EF24X23TOP1
+AddingPadStyle EF20X18TOP1
+AddingPadStyle EF19X18TOP1
+AddingPadStyle EF24X5TOP1
+AddingPadStyle EF10X32TOP1
+AddingPadStyle EF144X144TOP1
+AddingPadStyle EF39X24TOP1
+AddingPadStyle EF35X35TOP1
+AddingPadStyle EF35X39TOP1
+AddingPadStyle EF31X31TOP1
+AddingPadStyle P:EX87Y87D591
+AddingPadStyle EF69X69TOP1
+AddingPadStyle P:EX110Y110D831
+AddingPadStyle P:EX63Y63D351
+AddingPadStyle EF31X12TOP1
+AddingPadStyle EF98X69TOP1
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF311X91TOP1
+AddingPadStyle EF134X91TOP1
+AddingPadStyle EF150X98TOP1
+AddingPadStyle EF37X39TOP1
+AddingPadStyle EF106X45TOP1
+AddingPadStyle EF47X12TOP1
+AddingPadStyle EF57X43TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX20Y20D101
+Adding ViaStyle V:EX24Y24D121
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H35W8
+Adding TextStyle T:H30W7
+Adding TextStyle T:H27W6
+Adding TextStyle T:H40W10
+Adding TextStyle T:H50W11
+Adding TextStyle T:H54W7
+Adding TextStyle T:H400W10
+Adding TextStyle T:H50W3
+Adding PatternDef lane_width_transition_1
+Adding PatternDef lane_width_transition_2
+Adding PatternDef lane_width_transition_3
+Adding PatternDef lane_width_transition_4
+Adding PatternDef SAMTEC_HTSW-104-23-L-S_1
+Adding PatternDef DFN310X150X55-2N_1
+Adding PatternDef RESC1005X40N_1
+Adding PatternDef SAMTEC_HTSW-103-23-L-S_1
+Adding PatternDef RESC0603X28N_1
+Adding PatternDef RESC0603X28N_2
+Adding PatternDef RESC0603X28N_3
+Adding PatternDef LLL03TR61E333KE01_1
+Adding PatternDef LLL03TR61E333KE01_2
+Adding PatternDef SAMTEC_HTSW-102-23-L-S_1
+Adding PatternDef SAMTEC_HTSW-102-23-L-S_2
+Adding PatternDef CP_32_11_ADI_1
+Adding PatternDef SOT95P230X110-3N_1
+Adding PatternDef STELVIO-KONTEK_3131730000402_1
+Adding PatternDef RESC1608X55N_1
+Adding PatternDef LED_KINGBRIGHT_KP-1608QBC-D_1
+Adding PatternDef LED_KINGBRIGHT_KP-1608SURCK_1
+Adding PatternDef LED_KINGBRIGHT_KP-1608SURCK_2
+Adding PatternDef SAMTEC_SMA-J-P-H-ST-MT1_1
+Adding PatternDef AMPHENOL_B6252H7-NPP3G-50_1
+Adding PatternDef SAMTEC_SMA-J-P-H-ST-MT1_2
+Adding PatternDef SON50P300X300X80-11N-R175X248_1
+Adding PatternDef FIDUCIAL_TOP_C100-200_1
+Adding PatternDef FIL_MURATA_BNX02_1
+Adding PatternDef CAPC0603X33N_1
+Adding PatternDef CAPC0603X33N_2
+Adding PatternDef CAPC1608X87N_1
+Adding PatternDef CAPC0603X33N_3
+Adding PatternDef CAPC3225X270N_1
+Adding PatternDef CAPC3225X270N_2
+Adding PatternDef CAPC0510X04N_1
+Adding PatternDef CAPC3225X270N_3
+Adding PatternDef CAPC2013X140N_1
+Adding PatternDef CAPC3225X270N_4
+Adding PatternDef CAPC3225X270N_5
+Adding PatternDef CAPC0603X33N_4
+Adding PatternDef CAPC0603X33N_5
+Adding CompDef lane_width_transition_1
+Adding CompDef lane_width_transition_2
+Adding CompDef lane_width_transition_3
+Adding CompDef lane_width_transition_4
+Adding CompDef SAMTEC_HTSW-104-23-L-S_1
+Adding CompDef DFN310X150X55-2N_1
+Adding CompDef RESC1005X40N_1
+Adding CompDef SAMTEC_HTSW-103-23-L-S_1
+Adding CompDef RESC0603X28N_1
+Adding CompDef RESC0603X28N_2
+Adding CompDef RESC0603X28N_3
+Adding CompDef LLL03TR61E333KE01_1
+Adding CompDef LLL03TR61E333KE01_2
+Adding CompDef SAMTEC_HTSW-102-23-L-S_1
+Adding CompDef SAMTEC_HTSW-102-23-L-S_2
+Adding CompDef CP_32_11_ADI_1
+Adding CompDef SOT95P230X110-3N_1
+Adding CompDef STELVIO-KONTEK_3131730000402_1
+Adding CompDef RESC1608X55N_1
+Adding CompDef LED_KINGBRIGHT_KP-1608QBC-D_1
+Adding CompDef LED_KINGBRIGHT_KP-1608SURCK_1
+Adding CompDef LED_KINGBRIGHT_KP-1608SURCK_2
+Adding CompDef SAMTEC_SMA-J-P-H-ST-MT1_1
+Adding CompDef AMPHENOL_B6252H7-NPP3G-50_1
+Adding CompDef SAMTEC_SMA-J-P-H-ST-MT1_2
+Adding CompDef SON50P300X300X80-11N-R175X248_1
+Adding CompDef FIDUCIAL_TOP_C100-200_1
+Adding CompDef FIL_MURATA_BNX02_1
+Adding CompDef CAPC0603X33N_1
+Adding CompDef CAPC0603X33N_2
+Adding CompDef CAPC1608X87N_1
+Adding CompDef CAPC0603X33N_3
+Adding CompDef CAPC3225X270N_1
+Adding CompDef CAPC3225X270N_2
+Adding CompDef CAPC0510X04N_1
+Adding CompDef CAPC3225X270N_3
+Adding CompDef CAPC2013X140N_1
+Adding CompDef CAPC3225X270N_4
+Adding CompDef CAPC3225X270N_5
+Adding CompDef CAPC0603X33N_4
+Adding CompDef CAPC0603X33N_5
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer TopSolder.
+      Warning: Unexpected Poly Region Object Found On Layer TopSolder.
+      Warning: Unexpected Poly Region Object Found On Layer TopSolder.
+      Warning: Unexpected Poly Region Object Found On Layer TopSolder.
+      Warning: Unexpected Poly Region Object Found On Layer TopSolder.
+      Warning: Unexpected Poly Region Object Found On Layer TopSolder.
+      Warning: Unexpected Poly Region Object Found On Layer TopSolder.
+      Warning: Unexpected Poly Region Object Found On Layer BottomSolder.
+      Warning: Unexpected Poly Region Object Found On Layer BottomSolder.
+      Warning: Unexpected Poly Region Object Found On Layer BottomSolder.
+      Warning: Unexpected Poly Region Object Found On Layer BottomSolder.
+      Warning: Unexpected Poly Region Object Found On Layer BottomSolder.
+      Warning: Unexpected Free Text Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog

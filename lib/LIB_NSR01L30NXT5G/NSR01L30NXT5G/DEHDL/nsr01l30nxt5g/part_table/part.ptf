@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NSR01L30NXT5G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NSR01L30NXT5G" (!) = "", "NSR01L30NXT5G", "Other", "863-NSR01L30NXT5G", "https://www.mouser.co.uk/ProductDetail/onsemi/NSR01L30NXT5G?qs=hct%2FbkRa1SYLGc3bt5tuhA%3D%3D", "Low Forward Voltage Drop; Low Reverse Current; Very High Switching Speed; Reverse Voltage and Current Protection", "https://www.onsemi.com/pub/Collateral/NSR01L30-D.PDF", "0.3 mm"
+END_PART
+
+END.

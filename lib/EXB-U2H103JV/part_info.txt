@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EXB-U2H103JV
+PartCategory=Resistor Network (16-Pin)
+PackageCategory=Other
+PinCount=16
+Version=3.1
+Released=2022-09-09 14:07:01
+Downloaded=2025-02-17 15:56:37
+3D=Y

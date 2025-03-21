@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXB-U2H103JV
+D Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.063, Chip Size (LxW) (mm): 3.8 X 1.6, Resistance Values (): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.5, Type of Circuit: Isolated Circuit, Number of Elements (piece): 8, T.C.R (10/K): +/-200, Number of Terminals (piece): 16
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf
+$ENDCMP
+#
+#End Doc Library

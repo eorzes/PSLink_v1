@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN65LVDS4RSER
+D 500 Mbps LVDS Single High Speed Transceiver
+K
+F http://www.ti.com/lit/gpn/SN65LVDS4
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=C7_Ch0-1
+Removed Pin From Net: NetName=1V8 Pin=C7_Ch0-2
+Removed Pin From Net: NetName=GND Pin=C7_Ch1-1
+Removed Pin From Net: NetName=1V8 Pin=C7_Ch1-2
+Removed Pin From Net: NetName=GND Pin=C7_Ch2-1
+Removed Pin From Net: NetName=1V8 Pin=C7_Ch2-2
+Removed Pin From Net: NetName=GND Pin=C7_Ch3-1
+Removed Pin From Net: NetName=1V8 Pin=C7_Ch3-2
+Removed Pin From Net: NetName=VREFAC Pin=C10_Ch0-1
+Removed Pin From Net: NetName=GND Pin=C10_Ch0-2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=GND Pin=C10_Ch0-1
+Added Pin To Net: NetName=1V8 Pin=C10_Ch0-2
+Added Member To Class: ClassName=U_FMC Member=Component J5 132134-10
+Added Member To Class: ClassName=U_FMC Member=Component J6 132134-10
+Added Member To Class: ClassName=U_PLL Member=Component J7 132134-10
+Added Member To Class: ClassName=U_PLL Member=Component J8 132134-10
+Added Member To Class: ClassName=U_PLL Member=Component J9 132134-10
+Added Member To Class: ClassName=U_PLL Member=Component J10 132134-10
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

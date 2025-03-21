@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=GND Pin=LED6_Ch0-1
+Removed Pin From Net: NetName=GND Pin=LED6_Ch1-1
+Removed Pin From Net: NetName=GND Pin=LED6_Ch2-1
+Removed Pin From Net: NetName=GND Pin=LED6_Ch3-1
+Removed Pin From Net: NetName=CDR_LOS_0 Pin=R5_Ch0-2
+Removed Pin From Net: NetName=CDR_LOS_1 Pin=R5_Ch1-2
+Removed Pin From Net: NetName=CDR_LOS_2 Pin=R5_Ch2-2
+Removed Pin From Net: NetName=CDR_LOS_3 Pin=R5_Ch3-2
+Removed Pin From Net: NetName=CDR_LOL_0 Pin=R7_Ch0-2
+Removed Pin From Net: NetName=CDR_LOL_1 Pin=R7_Ch1-2
+Removed Pin From Net: NetName=CDR_LOL_2 Pin=R7_Ch2-2
+Removed Pin From Net: NetName=CDR_LOL_3 Pin=R7_Ch3-2
+Removed Member From Class: ClassName=U_FMC Member=IC?
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=IC13_Ch0(74LVC1G3157GS132)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74AUP1G32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74AUP1G32GS,132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Added Component: Designator=IC13_Ch1(74LVC1G3157GS132)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74AUP1G32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74AUP1G32GS,132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Added Component: Designator=IC13_Ch2(74LVC1G3157GS132)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74AUP1G32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74AUP1G32GS,132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Added Component: Designator=IC13_Ch3(74LVC1G3157GS132)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/74AUP1G32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74AUP1G32GS,132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74AUP1G32GS132"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CDR_LOS_0 Pin=IC13_Ch0-1
+Added Pin To Net: NetName=CDR_LOL_0 Pin=IC13_Ch0-2
+Added Pin To Net: NetName=GND Pin=IC13_Ch0-3
+Added Pin To Net: NetName=3V3CDR Pin=IC13_Ch0-6
+Added Pin To Net: NetName=CDR_LOS_1 Pin=IC13_Ch1-1
+Added Pin To Net: NetName=CDR_LOL_1 Pin=IC13_Ch1-2
+Added Pin To Net: NetName=GND Pin=IC13_Ch1-3
+Added Pin To Net: NetName=3V3CDR Pin=IC13_Ch1-6
+Added Pin To Net: NetName=CDR_LOS_2 Pin=IC13_Ch2-1
+Added Pin To Net: NetName=CDR_LOL_2 Pin=IC13_Ch2-2
+Added Pin To Net: NetName=GND Pin=IC13_Ch2-3
+Added Pin To Net: NetName=3V3CDR Pin=IC13_Ch2-6
+Added Pin To Net: NetName=CDR_LOS_3 Pin=IC13_Ch3-1
+Added Pin To Net: NetName=CDR_LOL_3 Pin=IC13_Ch3-2
+Added Pin To Net: NetName=GND Pin=IC13_Ch3-3
+Added Pin To Net: NetName=3V3CDR Pin=IC13_Ch3-6
+Added Pin To Net: NetName=NetIC13_Ch0_4 Pin=IC13_Ch0-4
+Added Pin To Net: NetName=NetIC13_Ch0_4 Pin=R5_Ch0-2
+Added Net: Name=NetIC13_Ch0_4
+Added Pin To Net: NetName=NetIC13_Ch1_4 Pin=IC13_Ch1-4
+Added Pin To Net: NetName=NetIC13_Ch1_4 Pin=R5_Ch1-2
+Added Net: Name=NetIC13_Ch1_4
+Added Pin To Net: NetName=NetIC13_Ch2_4 Pin=IC13_Ch2-4
+Added Pin To Net: NetName=NetIC13_Ch2_4 Pin=R5_Ch2-2
+Added Net: Name=NetIC13_Ch2_4
+Added Pin To Net: NetName=NetIC13_Ch3_4 Pin=IC13_Ch3-4
+Added Pin To Net: NetName=NetIC13_Ch3_4 Pin=R5_Ch3-2
+Added Net: Name=NetIC13_Ch3_4
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

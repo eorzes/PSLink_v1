@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=SDA_CDR_2 Pin=RN1-5
+Removed Pin From Net: NetName=SCL_CDR_2 Pin=RN1-6
+Removed Pin From Net: NetName=SDA_CDR_3 Pin=RN1-7
+Removed Pin From Net: NetName=SCL_CDR_3 Pin=RN1-8
+Removed Pin From Net: NetName=P3V3 Pin=RN1-9
+Removed Pin From Net: NetName=P3V3 Pin=RN1-10
+Removed Pin From Net: NetName=P3V3 Pin=RN1-11
+Removed Pin From Net: NetName=P3V3 Pin=RN1-12
+Removed Pin From Net: NetName=P3V3 Pin=RN1-13
+Removed Pin From Net: NetName=P3V3 Pin=RN1-14
+Removed Pin From Net: NetName=P3V3 Pin=RN1-15
+Removed Pin From Net: NetName=P3V3 Pin=RN1-16
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Component Footprint: Designator=RN1 Old Footprint=EXBU2H New Footprint=EXBU18
+Change Component Comment : Designator=RN1 Old Comment=EXB-U2H103JV New Comment=EXB-U18103JX
+Change component parameters: Designator = "RN1" ("RN1"); Footprint = "EXBU2H"; UniqueID = "\TUOBXDIE\TBUHMQXQ" ("\TUOBXDIE\TBUHMQXQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EXB-U18103JX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EXB-U18103JX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EXB-U18103JX"; VariantName = "[No Variations]"
+Added Component: Designator=RN4(EXBU18)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EXB-U18103JX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EXB-U18103JX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EXB-U18103JX"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P3V3 Pin=RN1-5
+Added Pin To Net: NetName=P3V3 Pin=RN1-6
+Added Pin To Net: NetName=P3V3 Pin=RN1-7
+Added Pin To Net: NetName=P3V3 Pin=RN1-8
+Added Pin To Net: NetName=SDA_CDR_2 Pin=RN4-1
+Added Pin To Net: NetName=SCL_CDR_2 Pin=RN4-2
+Added Pin To Net: NetName=SDA_CDR_3 Pin=RN4-3
+Added Pin To Net: NetName=SCL_CDR_3 Pin=RN4-4
+Added Pin To Net: NetName=P3V3 Pin=RN4-5
+Added Pin To Net: NetName=P3V3 Pin=RN4-6
+Added Pin To Net: NetName=P3V3 Pin=RN4-7
+Added Pin To Net: NetName=P3V3 Pin=RN4-8
+Added Member To Class: ClassName=U_FMC Member=Component RN4 EXB-U18103JX
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

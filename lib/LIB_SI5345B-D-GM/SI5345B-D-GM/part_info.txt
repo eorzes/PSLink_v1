@@ -1,0 +1,9 @@
+Manufacturer=Skyworks
+PartNumber=SI5345B-D-GM
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=65
+Version=1.1
+Released=2024-08-23 09:05:12
+Downloaded=2024-12-13 16:30:45
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NB7V52MMNG'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NB7V52MMNG" (!) = "", "QFN50P300X300X100-17N", "Quad Flat No-Lead", "863-NB7V52MMNG", "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NB7V52MMNG?qs=N5dOQkml4H8i91m%252BmwlaUQ%3D%3D", "NB7V52MMNG", "https://www.arrow.com/en/products/nb7v52mmng/on-semiconductor", "Flip Flop D-Type Pos-Edge/Neg-Edge 1-Element 16-Pin QFN EP Rail", "https://www.onsemi.com/pdf/datasheet/nb7v52m-d.pdf", "1 mm"
+END_PART
+
+END.

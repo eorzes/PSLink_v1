@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=NetC111_2 Pin=J5-1
+Removed Pin From Net: NetName=NetC116_2 Pin=J6-1
+Removed Pin From Net: NetName=PLL_IN_AUX_P Pin=J7-1
+Removed Pin From Net: NetName=PLL_SMA_OUT_P Pin=J8-1
+Removed Pin From Net: NetName=PLL_IN_AUX_N Pin=J9-1
+Removed Pin From Net: NetName=PLL_SMA_OUT_N Pin=J10-1
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Footprint: Cannot match pads with new footprint in component :J5 Footprint:13213410
+Change Footprint: Cannot match pads with new footprint in component :J6 Footprint:13213410
+Change Footprint: Cannot match pads with new footprint in component :J7 Footprint:13213410
+Change Footprint: Cannot match pads with new footprint in component :J8 Footprint:13213410
+Change Footprint: Cannot match pads with new footprint in component :J9 Footprint:13213410
+Change Footprint: Cannot match pads with new footprint in component :J10 Footprint:13213410
+Change Component Comment : Designator=J5 Old Comment=SMA New Comment=132134-10
+Change Component Comment : Designator=J6 Old Comment=SMA New Comment=132134-10
+Change Component Comment : Designator=J7 Old Comment=SMA New Comment=132134-10
+Change Component Comment : Designator=J8 Old Comment=SMA New Comment=132134-10
+Change Component Comment : Designator=J9 Old Comment=SMA New Comment=132134-10
+Change Component Comment : Designator=J10 Old Comment=SMA New Comment=132134-10
+Change component parameters: Designator = "J5" ("J5"); Footprint = "SAMTEC_SMA-J-P-H-ST-MT1"; UniqueID = "\TUOBXDIE\JFSAPBYH" ("\TUOBXDIE\JFSAPBYH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/132134-10/amphenol-rf?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/766804.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.24mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "523-132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134-10?qs=dJbzCyn%252BCFaB5sHVsOUgUQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "SAMTEC_SMA-J-P-H-ST-MT1"; UniqueID = "\TUOBXDIE\PNJIWLLP" ("\TUOBXDIE\PNJIWLLP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/132134-10/amphenol-rf?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/766804.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.24mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "523-132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134-10?qs=dJbzCyn%252BCFaB5sHVsOUgUQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "SAMTEC_SMA-J-P-H-ST-MT1"; UniqueID = "\RXVCHAEP\MNFGPMOJ" ("\RXVCHAEP\MNFGPMOJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/132134-10/amphenol-rf?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/766804.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.24mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "523-132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134-10?qs=dJbzCyn%252BCFaB5sHVsOUgUQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "SAMTEC_SMA-J-P-H-ST-MT1"; UniqueID = "\RXVCHAEP\IJYACVXB" ("\RXVCHAEP\IJYACVXB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/132134-10/amphenol-rf?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/766804.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.24mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "523-132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134-10?qs=dJbzCyn%252BCFaB5sHVsOUgUQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "SAMTEC_SMA-J-P-H-ST-MT1"; UniqueID = "\RXVCHAEP\CABSDJSW" ("\RXVCHAEP\CABSDJSW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/132134-10/amphenol-rf?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/766804.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.24mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "523-132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134-10?qs=dJbzCyn%252BCFaB5sHVsOUgUQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J10" ("J10"); Footprint = "SAMTEC_SMA-J-P-H-ST-MT1"; UniqueID = "\RXVCHAEP\SSEZSBKW" ("\RXVCHAEP\SSEZSBKW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/132134-10/amphenol-rf?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/766804.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.24mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "523-132134-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134-10?qs=dJbzCyn%252BCFaB5sHVsOUgUQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J5-1
+Add Pin To Net: Unknown Pin: Pin J5-3
+Added Pin To Net: NetName=GND Pin=J6-1
+Add Pin To Net: Unknown Pin: Pin J6-3
+Added Pin To Net: NetName=GND Pin=J7-1
+Add Pin To Net: Unknown Pin: Pin J7-3
+Added Pin To Net: NetName=GND Pin=J8-1
+Add Pin To Net: Unknown Pin: Pin J8-3
+Added Pin To Net: NetName=GND Pin=J9-1
+Add Pin To Net: Unknown Pin: Pin J9-3
+Added Pin To Net: NetName=GND Pin=J10-1
+Add Pin To Net: Unknown Pin: Pin J10-3
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

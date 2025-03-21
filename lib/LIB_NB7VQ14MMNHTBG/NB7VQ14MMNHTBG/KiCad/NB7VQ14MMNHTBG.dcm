@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NB7VQ14MMNHTBG
+D NB7VQ14MMNHTBG, Clock Generator CML, LVDS, LVPECL CML, 16-Pin QFN
+K
+F http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF
+$ENDCMP
+#
+#End Doc Library

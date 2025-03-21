@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=DDCLK0_P Pin=IC1_Ch0-6
+Removed Pin From Net: NetName=DDCLK0_N Pin=IC1_Ch0-7
+Removed Pin From Net: NetName=DDCLK3_P Pin=IC1_Ch1-6
+Removed Pin From Net: NetName=DDCLK3_N Pin=IC1_Ch1-7
+Removed Pin From Net: NetName=DDCLK1_P Pin=IC1_Ch3-6
+Removed Pin From Net: NetName=DDCLK1_N Pin=IC1_Ch3-7
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=DDCLK3_P Pin=IC1_Ch0-6
+Added Pin To Net: NetName=DDCLK3_N Pin=IC1_Ch0-7
+Added Pin To Net: NetName=DDCLK1_P Pin=IC1_Ch1-6
+Added Pin To Net: NetName=DDCLK1_N Pin=IC1_Ch1-7
+Added Pin To Net: NetName=DDCLK0_P Pin=IC1_Ch3-6
+Added Pin To Net: NetName=DDCLK0_N Pin=IC1_Ch3-7
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

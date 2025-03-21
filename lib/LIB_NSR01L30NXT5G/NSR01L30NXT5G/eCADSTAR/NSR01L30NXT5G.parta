@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_908629"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-17-23:04:00)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "NSR01L30NXT5G")
+)
+
+
+(pinAssign "ECS_908629"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-17-23:04:00)
+    (utime 2025-01-22-16:53:39)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_908629")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "NSR01L30NXT5G")
+)
+
+
+(part "NSR01L30NXT5G"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-17-23:04:00)
+    (utime 2025-01-22-16:53:39)
+    (packageRef "NSR01L30NXT5G")
+    (pinAssignRef "ECS_908629")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Low Forward Voltage Drop; Low Reverse Current; Very High Switching Speed; Reverse Voltage and Current Protection")
+    (property "Mouser_Part_Number" "863-NSR01L30NXT5G")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/NSR01L30NXT5G?qs=hct%2FbkRa1SYLGc3bt5tuhA%3D%3D")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "NSR01L30NXT5G")
+    (property "Datasheet_Link" "https://www.onsemi.com/pub/Collateral/NSR01L30-D.PDF")
+    (property "compAreaTopHeight" 0.3)
+)
+
+

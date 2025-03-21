@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TCA9543ADR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-23-06:59:22)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-14N")
+        (spec "System")
+    )
+)

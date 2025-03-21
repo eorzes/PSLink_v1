@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NB7VQ14MMNHTBG'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NB7VQ14MMNHTBG" (!) = "", "QFN50P300X300X100-17N", "Quad Flat No-Lead", "863-NB7VQ14MMNHTBG", "https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D", "NB7VQ14MMNHTBG", "https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac", "NB7VQ14MMNHTBG, Clock Generator CML, LVDS, LVPECL CML, 16-Pin QFN", "http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF", "1 mm"
+END_PART
+
+END.

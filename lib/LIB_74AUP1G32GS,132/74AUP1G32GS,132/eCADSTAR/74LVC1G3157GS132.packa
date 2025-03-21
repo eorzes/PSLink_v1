@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "74AUP1G32GS_132"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-22-23:00:56)
+    (mountForm default
+        (footprintRef "74LVC1G3157GS132")
+        (spec "System")
+    )
+)

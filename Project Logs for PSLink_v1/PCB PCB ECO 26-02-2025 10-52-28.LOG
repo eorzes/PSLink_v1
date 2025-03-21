@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=U_PLL Member=C65
+Removed Member From Class: ClassName=U_PLL Member=IC7
+Removed Member From Class: ClassName=U_PLL Member=IC10
+Removed Member From Class: ClassName=U_PLL Member=W9
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Differential Pair: Name=IN0
+Added Differential Pair: Name=RXUSRCLK
+Added Member To Class: ClassName=U_FMC Member=Component C60 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C67 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C70 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C72 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C73 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C77 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C82 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C85 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C86 1uF
+Added Member To Class: ClassName=U_PLL Member=Component IC8 SI5345B-D-GM
+Added Member To Class: ClassName=U_SFP Member=Component IC10 PT1000 SMD 1206 fd F 0,3
+Added Member To Class: ClassName=U_SFP Member=Component W9 Header 4
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

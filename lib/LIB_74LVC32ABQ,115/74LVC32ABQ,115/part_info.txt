@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=74LVC32ABQ,115
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=15
+Version=2.2
+Released=2019-11-12 07:41:52
+Downloaded=2025-03-18 10:08:20
+3D=Y

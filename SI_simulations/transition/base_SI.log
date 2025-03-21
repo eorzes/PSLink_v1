@@ -1,0 +1,10 @@
+--------------------- Tue Jun 11 11:09:52 2024 ---------------------
+
+Creating SIwave session log C:\Users\frankcesco\Documents\offline\CDRs_Eval\SI_simulations\transition\base_SI.log
+OS: Windows 11 Education  (Build 22000)
+
+Saved C:\Users\frankcesco\Documents\offline\CDRs_Eval\SI_simulations\transition\base_SI.siw
+0 capacitors read
+0 inductors read
+0 resistors read
+Loaded design "main" from EDB "C:/Users/frankcesco/Documents/offline/CDRs_Eval/SI_simulations/transition/relaxed_transition.edb"

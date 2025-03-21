@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NB7V52MMNG
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=17
+Version=1.1
+Released=2022-05-12 12:24:49
+Downloaded=2024-11-11 10:53:57
+3D=Y

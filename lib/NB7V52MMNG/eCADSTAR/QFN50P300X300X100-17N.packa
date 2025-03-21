@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NB7V52MMNG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-05-12-12:24:49)
+    (mountForm default
+        (footprintRef "QFN50P300X300X100-17N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=74AUP1G32GS,132
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=6
+Version=8.2
+Released=2019-11-12 07:41:52
+Downloaded=2025-03-18 10:55:03
+3D=Y

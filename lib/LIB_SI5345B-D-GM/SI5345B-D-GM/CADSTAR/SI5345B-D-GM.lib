@@ -1,0 +1,17 @@
+.SI5345B-D-GM :1 ;Clock Synthesizer / Jitter Cleaner Low-jitter, 10-output, any frequency (< 350 MHz), any output jitter attenuator
+QFN50P900X900X90-65N-D
+*STM IC
+*NGS
+*PLB 1="IN1" 2="IN1B" 3="IN_SEL0" 4="IN_SEL1" 5="RSVD_1" 6="RSTB" 7="X1" 8="XA" 9="XB" 10="X2" 11="OEB" 12="INTRB" 13="VDDA" 14="IN2" 15="IN2B" 16="SCLK" 17="A1/SDO" 18="SDA/SDIO" 19="A0/CSB" 20="RSVD_2" 21="RSVD_3" 22="VDDO0" 23="OUT0B" 24="OUT0" 25="FDEC" 26="VDDO1" 27="OUT1B" 28="OUT1" 29="VDDO2" 30="OUT2B" 31="OUT2" 32="VDD_1" 33="VDDO3" 34="OUT3B" 35="OUT3" 36="VDDO4" 37="OUT4B" 38="OUT4" 39="I2C_SEL" 40="VDDO5" 41="OUT5B" 42="OUT5" 43="VDDO6" &
+44="OUT6B" 45="OUT6" 46="VDD_2" 47="LOLB" 48="FINC" 49="VDDO7" 50="OUT7B" 51="OUT7" 52="VDDO8" 53="OUT8B" 54="OUT8" 55="RSVD_4" 56="RSVD_5" 57="VDDO9" 58="OUT9B" 59="OUT9" 60="VDD_3" 61="IN3/FB_IN" 62="IN3B/FB_INB" 63="IN0" 64="IN0B" 65="GND"
+*MXP 65
+*DFN SI5345B-D-GM
+~!Mouser Part Number (634-SI5345B-D-GM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SI5345B-D-GM?qs=p9T7GgSe1IGHqFUKlxUKrA%3D%3D)
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (SI5345B-D-GM)
+~!Link Datasheet (https://www.mouser.sg/datasheet/2/472/si5345_44_42_d_datasheet-2507675.pdf)
+~!Height (0.9mm)
+~!3D_Model (SI5345B-D-GM)
+SI5345B-D-GM
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 65.1!U 64.1!U 63.1!U 62.1!U 61.1!U 60.1!U 59.1!U 58.1!U 57.1!U 56.1!U 55.1!U 54.1!U 53.1!U 52.1!U 51.1!U 50.1!U 49.1!U 

@@ -1,0 +1,82 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+SI5345B-D-GM QFN50P900X900X90-65N-D I ANA 7 1 0 0 0
+TIMESTAMP 2024.12.13.16.30.45
+"Mouser Part Number" 634-SI5345B-D-GM
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SI5345B-D-GM?qs=p9T7GgSe1IGHqFUKlxUKrA%3D%3D
+"Manufacturer_Name" Skyworks
+"Manufacturer_Part_Number" SI5345B-D-GM
+"Description" Clock Synthesizer / Jitter Cleaner Low-jitter, 10-output, any frequency (< 350 MHz), any output jitter attenuator
+"Datasheet Link" https://www.mouser.sg/datasheet/2/472/si5345_44_42_d_datasheet-2507675.pdf
+"Geometry.Height" 0.9mm
+GATE 1 65 0
+SI5345B-D-GM
+1 0 U IN1
+2 0 U IN1B
+3 0 U IN_SEL0
+4 0 U IN_SEL1
+5 0 U RSVD_1
+6 0 U RSTB
+7 0 U X1
+8 0 U XA
+9 0 U XB
+10 0 U X2
+11 0 U OEB
+12 0 U INTRB
+13 0 U VDDA
+14 0 U IN2
+15 0 U IN2B
+16 0 U SCLK
+17 0 U A1/SDO
+18 0 U SDA/SDIO
+19 0 U A0/CSB
+20 0 U RSVD_2
+21 0 U RSVD_3
+22 0 U VDDO0
+23 0 U OUT0B
+24 0 U OUT0
+25 0 U FDEC
+26 0 U VDDO1
+27 0 U OUT1B
+28 0 U OUT1
+29 0 U VDDO2
+30 0 U OUT2B
+31 0 U OUT2
+32 0 U VDD_1
+48 0 U FINC
+47 0 U LOLB
+46 0 U VDD_2
+45 0 U OUT6
+44 0 U OUT6B
+43 0 U VDDO6
+42 0 U OUT5
+41 0 U OUT5B
+40 0 U VDDO5
+39 0 U I2C_SEL
+38 0 U OUT4
+37 0 U OUT4B
+36 0 U VDDO4
+35 0 U OUT3
+34 0 U OUT3B
+33 0 U VDDO3
+65 0 U GND
+64 0 U IN0B
+63 0 U IN0
+62 0 U IN3B/FB_INB
+61 0 U IN3/FB_IN
+60 0 U VDD_3
+59 0 U OUT9
+58 0 U OUT9B
+57 0 U VDDO9
+56 0 U RSVD_5
+55 0 U RSVD_4
+54 0 U OUT8
+53 0 U OUT8B
+52 0 U VDDO8
+51 0 U OUT7
+50 0 U OUT7B
+49 0 U VDDO7
+
+*END*
+*REMARK* SamacSys ECAD Model
+17056600/1532278/2.50/65/3/Integrated Circuit

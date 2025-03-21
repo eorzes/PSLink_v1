@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EXB-U18103JX
+PartCategory=Resistor Network (8-Pin)
+PackageCategory=Other
+PinCount=8
+Version=3.1
+Released=2022-09-09 09:03:37
+Downloaded=2025-02-17 14:22:56
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC32ABQ,115
+D 74LVC32A - Quad 2-input OR gate@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf
+$ENDCMP
+#
+#End Doc Library

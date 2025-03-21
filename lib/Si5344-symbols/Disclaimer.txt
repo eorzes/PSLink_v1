@@ -1,0 +1,6 @@
+Disclaimer: 
+
+These .bxl files are provided as-is to assist you in your designs. 
+Silicon Labs makes no warranty or guarantee regarding their use. 
+You must verify the results of the file export against the published 
+data sheet prior to building your board.

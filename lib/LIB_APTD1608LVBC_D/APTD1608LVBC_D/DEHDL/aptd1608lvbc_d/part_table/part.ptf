@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'APTD1608LVBC_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kingbright", "APTD1608LVBC/D" (!) = "", "LEDC1608X110N", "LEDs Chip", "604-APTD1608LVBCD", "https://www.mouser.co.uk/ProductDetail/Kingbright/APTD1608LVBC-D?qs=6oMev5NRZMEfNSg5xIhlKA%3D%3D", "Blue 470nm LED Indication - Discrete 2.65V 0603 (1608 Metric)", "https://componentsearchengine.com/Datasheets/1/APTD1608LVBC_D.pdf", "1.1 mm"
+END_PART
+
+END.

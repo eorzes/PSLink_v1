@@ -1,0 +1,196 @@
+Removed Pin From Net: NetName=1V8 Pin=R22-1
+Removed Pin From Net: NetName=VREFAC Pin=R22-2
+Removed Pin From Net: NetName=NetC60_2 Pin=R26-1
+Removed Pin From Net: NetName=NetIC5_6 Pin=R26-2
+Removed Pin From Net: NetName=RXUSRCLK_P Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=R53-2
+Removed Pin From Net: NetName=RXUSRCLK_N Pin=R55-1
+Removed Pin From Net: NetName=GND Pin=R55-2
+Removed Pin From Net: NetName=P3V3A Pin=R68-1
+Removed Pin From Net: NetName=FMC_SCL Pin=R68-2
+Removed Pin From Net: NetName=P3V3A Pin=R69-1
+Removed Pin From Net: NetName=FMC_SDA Pin=R69-2
+Removed Pin From Net: NetName=NetIC7_7 Pin=R70-1
+Removed Pin From Net: NetName=GND Pin=R70-2
+Removed Pin From Net: NetName=VADJ Pin=R73-1
+Removed Pin From Net: NetName=NetIC11_3 Pin=R73-2
+Removed Pin From Net: NetName=3V3CDR Pin=R78-2
+Removed Pin From Net: NetName=SDA_1V Pin=R83-1
+Removed Pin From Net: NetName=1VPSF Pin=R83-2
+Removed Pin From Net: NetName=SCL_1V Pin=R84-1
+Removed Pin From Net: NetName=1VPSF Pin=R84-2
+Removed Pin From Net: NetName=SDA_PSF Pin=R85-1
+Removed Pin From Net: NetName=VADJ Pin=R85-2
+Removed Pin From Net: NetName=SCL_PSF Pin=R86-1
+Removed Pin From Net: NetName=VADJ Pin=R86-2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Component Footprint: Designator=R3_Ch0 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R3_Ch1 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R3_Ch2 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R3_Ch3 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R4_Ch0 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R4_Ch1 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R4_Ch2 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R4_Ch3 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R22 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R26 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R29 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R30 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R31 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R34 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R37 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R38 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R39 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R42 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R53 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R55 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R56 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R57 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R65 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R66 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R68 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R69 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R70 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R71 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R72 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R73 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R75 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R77 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R78 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R79 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R81 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R83 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R84 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R85 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R86 Old Footprint=RESC0603X28N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R9 Old Footprint=RESC1005X40N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R12 Old Footprint=RESC1005X40N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R23 Old Footprint=RESC1005X40N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R45 Old Footprint=RESC1005X40N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R48 Old Footprint=RESC1005X40N New Footprint=MURATA_HI_DENSITY_0201
+Change Component Footprint: Designator=R64 Old Footprint=RESC1005X40N New Footprint=MURATA_HI_DENSITY_0201
+Change component parameters: Designator = "R3_Ch0" ("R3"); Footprint = "RESC0603X28N"; UniqueID = "\ZDEZDXAU\BHLCQWYS" ("\ZDEZDXAU\BHLCQWYS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_Ch1" ("R3"); Footprint = "RESC0603X28N"; UniqueID = "\UBZOXOAD\BHLCQWYS" ("\UBZOXOAD\BHLCQWYS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_Ch2" ("R3"); Footprint = "RESC0603X28N"; UniqueID = "\TUESWSJY\BHLCQWYS" ("\TUESWSJY\BHLCQWYS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_Ch3" ("R3"); Footprint = "RESC0603X28N"; UniqueID = "\QPLCYWDJ\BHLCQWYS" ("\QPLCYWDJ\BHLCQWYS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_Ch0" ("R4"); Footprint = "RESC0603X28N"; UniqueID = "\ZDEZDXAU\SVVWQMIH" ("\ZDEZDXAU\SVVWQMIH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_Ch1" ("R4"); Footprint = "RESC0603X28N"; UniqueID = "\UBZOXOAD\SVVWQMIH" ("\UBZOXOAD\SVVWQMIH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_Ch2" ("R4"); Footprint = "RESC0603X28N"; UniqueID = "\TUESWSJY\SVVWQMIH" ("\TUESWSJY\SVVWQMIH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4_Ch3" ("R4"); Footprint = "RESC0603X28N"; UniqueID = "\QPLCYWDJ\SVVWQMIH" ("\QPLCYWDJ\SVVWQMIH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\LSVXVYVE" ("\KQHXEXVH\LSVXVYVE")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\HIYCRWJV" ("\KQHXEXVH\HIYCRWJV")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC0603X28N"; UniqueID = "\KQHXEXVH\GIBQJBKT" ("\KQHXEXVH\GIBQJBKT")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\WQACWGCL" ("\KQHXEXVH\WQACWGCL")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESC0603X28N"; UniqueID = "\KQHXEXVH\ADTFFHKG" ("\KQHXEXVH\ADTFFHKG")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\YDCPJOMT" ("\ASHKZGXP\YDCPJOMT")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\AQCCDHRV" ("\ASHKZGXP\AQCCDHRV")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\JQZUVQVY" ("\ASHKZGXP\JQZUVQVY")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\YBDPUQMC" ("\ASHKZGXP\YBDPUQMC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\QYPWEBZJ" ("\ASHKZGXP\QYPWEBZJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\XGVVUUOF" ("\ASHKZGXP\XGVVUUOF")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\RYPHMSCE" ("\ASHKZGXP\RYPHMSCE")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "RESC0603X28N"; UniqueID = "\ASHKZGXP\LWZNUSSR" ("\ASHKZGXP\LWZNUSSR")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\DEBWNRWC" ("\KQHXEXVH\DEBWNRWC")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R48" ("R48"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\SNUSXIOY" ("\KQHXEXVH\SNUSXIOY")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "RESC0603X28N"; UniqueID = "\RXVCHAEP\RYJFXEMR" ("\RXVCHAEP\RYJFXEMR")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55" ("R55"); Footprint = "RESC0603X28N"; UniqueID = "\RXVCHAEP\UMMZRVSG" ("\RXVCHAEP\UMMZRVSG")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R56" ("R56"); Footprint = "RESC0603X28N"; UniqueID = "\RXVCHAEP\LVIGCTPF" ("\RXVCHAEP\LVIGCTPF")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R57" ("R57"); Footprint = "RESC0603X28N"; UniqueID = "\RXVCHAEP\XHJMZPQG" ("\RXVCHAEP\XHJMZPQG")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R64" ("R64"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\ZLUODJFV" ("\KQHXEXVH\ZLUODJFV")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R65" ("R65"); Footprint = "RESC0603X28N"; UniqueID = "\KQHXEXVH\QLLVFDJS" ("\KQHXEXVH\QLLVFDJS")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R66" ("R66"); Footprint = "RESC0603X28N"; UniqueID = "\KQHXEXVH\LGUOHIHJ" ("\KQHXEXVH\LGUOHIHJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R68" ("R68"); Footprint = "RESC0603X28N"; UniqueID = "\TUOBXDIE\HRINOBPO" ("\TUOBXDIE\HRINOBPO")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R69" ("R69"); Footprint = "RESC0603X28N"; UniqueID = "\TUOBXDIE\OIXQCXYO" ("\TUOBXDIE\OIXQCXYO")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R70" ("R70"); Footprint = "RESC0603X28N"; UniqueID = "\TUOBXDIE\RGUCUGUD" ("\TUOBXDIE\RGUCUGUD")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R71" ("R71"); Footprint = "RESC0603X28N"; UniqueID = "\TUOBXDIE\JWXOTWQT" ("\TUOBXDIE\JWXOTWQT")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R72" ("R72"); Footprint = "RESC0603X28N"; UniqueID = "\TUOBXDIE\LIKGLFIW" ("\TUOBXDIE\LIKGLFIW")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R73" ("R73"); Footprint = "RESC0603X28N"; UniqueID = "\TUOBXDIE\SZBACQZJ" ("\TUOBXDIE\SZBACQZJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R75" ("R75"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\TRZJTDOD" ("\ARQPRAUY\TRZJTDOD")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R77" ("R77"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\SIRWDDSH" ("\ARQPRAUY\SIRWDDSH")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R78" ("R78"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\NZXSWBXU" ("\ARQPRAUY\NZXSWBXU")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R79" ("R79"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\PDWSJRYT" ("\ARQPRAUY\PDWSJRYT")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R81" ("R81"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\VRCZHZGX" ("\ARQPRAUY\VRCZHZGX")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R83" ("R83"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\NIMJEPZZ" ("\ARQPRAUY\NIMJEPZZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R84" ("R84"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\NETNRPMI" ("\ARQPRAUY\NETNRPMI")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R85" ("R85"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\KFWHODHB" ("\ARQPRAUY\KFWHODHB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R86" ("R86"); Footprint = "RESC0603X28N"; UniqueID = "\ARQPRAUY\RAEWBLBL" ("\ARQPRAUY\RAEWBLBL")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VREFAC Pin=R22-1
+Added Pin To Net: NetName=1V8 Pin=R22-2
+Added Pin To Net: NetName=NetIC5_6 Pin=R26-1
+Added Pin To Net: NetName=NetC60_2 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=RXUSRCLK_P Pin=R53-2
+Added Pin To Net: NetName=GND Pin=R55-1
+Added Pin To Net: NetName=RXUSRCLK_N Pin=R55-2
+Added Pin To Net: NetName=FMC_SCL Pin=R68-1
+Added Pin To Net: NetName=P3V3A Pin=R68-2
+Added Pin To Net: NetName=FMC_SDA Pin=R69-1
+Added Pin To Net: NetName=P3V3A Pin=R69-2
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=NetIC7_7 Pin=R70-2
+Added Pin To Net: NetName=NetIC11_3 Pin=R73-1
+Added Pin To Net: NetName=VADJ Pin=R73-2
+Added Pin To Net: NetName=3V3CDR Pin=R78-1
+Added Pin To Net: NetName=1VPSF Pin=R83-1
+Added Pin To Net: NetName=SDA_1V Pin=R83-2
+Added Pin To Net: NetName=1VPSF Pin=R84-1
+Added Pin To Net: NetName=SCL_1V Pin=R84-2
+Added Pin To Net: NetName=VADJ Pin=R85-1
+Added Pin To Net: NetName=SDA_PSF Pin=R85-2
+Added Pin To Net: NetName=VADJ Pin=R86-1
+Added Pin To Net: NetName=SCL_PSF Pin=R86-2
+Added Pin To Net: NetName=NetR78_2 Pin=R78-2
+Added Pin To Net: NetName=NetR78_2 Pin=U5-10
+Added Net: Name=NetR78_2
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

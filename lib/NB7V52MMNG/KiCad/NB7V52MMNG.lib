@@ -1,0 +1,40 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NB7V52MMNG
+#/11627257/1532278/2.50/17/3/Integrated Circuit
+DEF NB7V52MMNG IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NB7V52MMNG" 1050 500 50 H V L CNN
+F2 "QFN50P300X300X100-17N" 1050 400 50 H I L CNN
+F3 "https://www.onsemi.com/pdf/datasheet/nb7v52m-d.pdf" 1050 300 50 H I L CNN
+F4 "Flip Flop D-Type Pos-Edge/Neg-Edge 1-Element 16-Pin QFN EP Rail" 1050 200 50 H I L CNN "Description"
+F5 "1" 1050 100 50 H I L CNN "Height"
+F6 "onsemi" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NB7V52MMNG" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "863-NB7V52MMNG" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NB7V52MMNG?qs=N5dOQkml4H8i91m%252BmwlaUQ%3D%3D" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "NB7V52MMNG" 1050 -400 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/nb7v52mmng/on-semiconductor" 1050 -500 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VTD 1 0 0 200 R 50 50 0 0 P
+X D 2 0 -100 200 R 50 50 0 0 P
+X ~D 3 0 -200 200 R 50 50 0 0 P
+X ~VTD 4 0 -300 200 R 50 50 0 0 P
+X VTCLK 5 400 -1000 200 U 50 50 0 0 P
+X CLK 6 500 -1000 200 U 50 50 0 0 P
+X ~CLK 7 600 -1000 200 U 50 50 0 0 P
+X ~VTCLK 8 700 -1000 200 U 50 50 0 0 P
+X VCC 12 1200 0 200 L 50 50 0 0 P
+X Q 11 1200 -100 200 L 50 50 0 0 P
+X ~Q 10 1200 -200 200 L 50 50 0 0 P
+X VEE 9 1200 -300 200 L 50 50 0 0 P
+X EP 17 400 600 200 D 50 50 0 0 P
+X ~VTR 16 500 600 200 D 50 50 0 0 P
+X ~R 15 600 600 200 D 50 50 0 0 P
+X R 14 700 600 200 D 50 50 0 0 P
+X VTR 13 800 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Match_SFP_FAN Member=SFP_RX1_N
+Removed Member From Class: ClassName=Match_SFP_FAN Member=SFP_RX1_P
+Removed Member From Class: ClassName=Match_SFP_FAN Member=SFP_TX1_N
+Removed Member From Class: ClassName=Match_SFP_FAN Member=SFP_TX1_P
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Class Name : Old Net Name=Match_SFP_FAN New Net Name=Match_SFP0_FAN
+Added Class: Name=Match_SFP1_FAN
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

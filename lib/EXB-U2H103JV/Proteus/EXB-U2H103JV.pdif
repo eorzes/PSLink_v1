@@ -1,0 +1,304 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EXB-U2H103JV"
+   (description "Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.063, Chip Size (LxW) (mm): 3.8 X 1.6, Resistance Values (): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.5, Type of Circuit: Isolated Circuit, Number of Elements (piece): 8, T.C.R (10/K): +/-200, Number of Terminals (piece): 16")
+   (family "ANA")
+   (package "EXBU2H")
+   (attribute "Datasheet Link" "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf")
+   (attribute "Geometry.Height" "0.55mm")
+   (attribute "Mouser Part Number" "667-EXB-U2H103JV")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/EXB-U2H103JV?qs=Z3CaLxJiOJJ7jC1v10U%2Fjw%3D%3D")
+   (attribute "Manufacturer_Name" "Panasonic")
+   (attribute "Manufacturer_Part_Number" "EXB-U2H103JV")
+   (gate
+    (symbol "EXB-U2H103JV")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+    (pin "10" 10 PS)
+    (pin "11" 11 PS)
+    (pin "12" 12 PS)
+    (pin "13" 13 PS)
+    (pin "14" 14 PS)
+    (pin "15" 15 PS)
+    (pin "16" 16 PS)
+   )
+  )
+  (symbol "EXB-U2H103JV"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1800 100) (pt 1800 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 250 -50) (pt 250 -250) (pt 350 -250) (pt 350 -50) (pt 250 -50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 450 -50) (pt 450 -250) (pt 550 -250) (pt 550 -50) (pt 450 -50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 -50) (pt 300 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 -250) (pt 300 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 500 -250) (pt 500 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 500 -50) (pt 500 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 700 -50) (pt 700 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 650 -50) (pt 650 -250) (pt 750 -250) (pt 750 -50) (pt 650 -50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 700 -250) (pt 700 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 900 -50) (pt 900 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 850 -50) (pt 850 -250) (pt 950 -250) (pt 950 -50) (pt 850 -50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 900 -250) (pt 900 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1700 -250) (pt 1700 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1650 -50) (pt 1650 -250) (pt 1750 -250) (pt 1750 -50) (pt 1650 -50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1700 -50) (pt 1700 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1500 -250) (pt 1500 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1450 -50) (pt 1450 -250) (pt 1550 -250) (pt 1550 -50) (pt 1450 -50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1500 -50) (pt 1500 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1300 -50) (pt 1300 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1300 -250) (pt 1300 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1100 -250) (pt 1100 -400))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1100 -50) (pt 1100 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1250 -50) (pt 1250 -250) (pt 1350 -250) (pt 1350 -50) (pt 1250 -50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 1050 -50) (pt 1050 -250) (pt 1150 -250) (pt 1150 -50) (pt 1050 -50))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 300 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 300 300) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EXBU2H"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.9 0.8)
+      (pt 1.9 0.8)
+      (pt 1.9 -0.8)
+      (pt -1.9 -0.8)
+      (pt -1.9 0.8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.05 2)
+      (pt 3.05 2)
+      (pt 3.05 -2)
+      (pt -3.05 -2)
+      (pt -3.05 2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.837 -1.3)
+      (arc (pt -1.837 -1.300) (pt -1.887 -1.400) (pt -1.787 -1.300) (start 180.0) (sweep 90.0))
+      (pt -1.837 -1.4)
+      (arc (pt -1.837 -1.400) (pt -1.887 -1.400) (pt -1.787 -1.300) (start 180.0) (sweep -90.0))
+      (pt -1.837 -1.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.9 0.2)
+      (pt -1.9 -0.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.9 0.2)
+      (pt 1.9 -0.2))))
+   (leg 1 (pt -1.837 -0.750) (padstack 1))
+   (leg 2 (pt -1.250 -0.750) (padstack 0))
+   (leg 3 (pt -0.750 -0.750) (padstack 0))
+   (leg 4 (pt -0.250 -0.750) (padstack 0))
+   (leg 5 (pt 0.250 -0.750) (padstack 0))
+   (leg 6 (pt 0.750 -0.750) (padstack 0))
+   (leg 7 (pt 1.250 -0.750) (padstack 0))
+   (leg 8 (pt 1.837 -0.750) (padstack 8))
+   (leg 9 (pt 1.837 0.750) (padstack 9))
+   (leg 10 (pt 1.250 0.750) (padstack 0))
+   (leg 11 (pt 0.750 0.750) (padstack 0))
+   (leg 12 (pt 0.250 0.750) (padstack 0))
+   (leg 13 (pt -0.250 0.750) (padstack 0))
+   (leg 14 (pt -0.750 0.750) (padstack 0))
+   (leg 15 (pt -1.250 0.750) (padstack 0))
+   (leg 16 (pt -1.837 0.750) (padstack 16))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.500 0 0 90.000))
+   )
+   (padstack 1
+    (plated false)
+    (pad (layer TCOP) (rectf 0.425 0.500 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.425 0.500 0 0 90.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 0.425 0.500 0 0 90.000))
+   )
+   (padstack 16
+    (plated false)
+    (pad (layer TCOP) (rectf 0.425 0.500 0 0 90.000))
+   )
+   (model "EXB-U2H103JV.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

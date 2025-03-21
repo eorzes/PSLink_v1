@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NSR01L30NXT5G
+PartCategory=Schottky Diode
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2019-05-17 23:04:00
+Downloaded=2025-02-21 13:33:45
+3D=Y

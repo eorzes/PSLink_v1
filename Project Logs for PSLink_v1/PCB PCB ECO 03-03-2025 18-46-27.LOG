@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=EQ1_EN Pin=J4-G9
+Removed Pin From Net: NetName=EQ2_EN Pin=J4-G10
+Removed Pin From Net: NetName=EQ3_EN Pin=J4-H7
+Removed Pin From Net: NetName=EQ0_EN Pin=J4-H8
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=EQ2_EN Pin=J4-G9
+Added Pin To Net: NetName=EQ1_EN Pin=J4-G10
+Added Pin To Net: NetName=EQ0_EN Pin=J4-H7
+Added Pin To Net: NetName=EQ3_EN Pin=J4-H8
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

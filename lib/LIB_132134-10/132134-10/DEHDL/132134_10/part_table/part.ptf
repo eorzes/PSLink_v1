@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '132134_10'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "132134-10" (!) = "", "13213410", "Other", "523-132134-10", "https://www.mouser.co.uk/ProductDetail/Amphenol-RF/132134-10?qs=dJbzCyn%252BCFaB5sHVsOUgUQ%3D%3D", "AMPHENOL RF - 132134-10 - RF CONNECTOR, SMA, STRAIGHT JACK, PCB", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/766804.pdf", "9.24 mm"
+END_PART
+
+END.

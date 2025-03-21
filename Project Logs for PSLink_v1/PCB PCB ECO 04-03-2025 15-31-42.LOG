@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=50O Member=FPGA_TX1_PS_N
+Removed Member From Class: ClassName=50O Member=FPGA_TX1_PS_P
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=R69X(MURATA_HI_DENSITY_0201)
+Add component (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R69X-1
+Added Pin To Net: NetName=FPGA_TX1_PS_N Pin=R69X-2
+Change Net Name : Old Net Name=NetR62B_2 New Net Name=BYPASS_P
+Change Net Name : Old Net Name=NetR66B_1 New Net Name=BYPASS_N
+Added Differential Pair: Name=BYPASS
+Added Differential Pair: Name=FPGA_TX1_PS
+Added Member To Class: ClassName=U_phase-shifters Member=Component R69X 50O
+Added Member To Class: ClassName=50O Member=Wire NetIC11_7
+Added Member To Class: ClassName=50O Member=Wire NetIC11_18
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

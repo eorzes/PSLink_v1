@@ -1,0 +1,16 @@
+.74LVC32ABQ_115 :1 ;74LVC32A - Quad 2-input OR gate@en-us
+"74LVC32ABQ115"
+*STM IC
+*NGS
+*PLB 1="1A" 2="1B" 3="1Y" 4="2A" 5="2B" 6="2Y" 7="GND_1" 8="3Y" 9="3A" 10="3B" 11="4Y" 12="4A" 13="4B" 14="VCC" 15="GND_2"
+*MXP 15
+*DFN 74LVC32ABQ_115
+~!Mouser Part Number (771-74LVC32ABQ-G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/74LVC32ABQ115?qs=me8TqzrmIYVhxXge93dmrA%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (74LVC32ABQ,115)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf)
+~!Height (1mm)
+~!3D_Model (74LVC32ABQ,115)
+"74LVC32ABQ_115"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 

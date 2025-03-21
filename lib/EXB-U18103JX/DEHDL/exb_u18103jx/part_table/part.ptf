@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EXB_U18103JX'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EXB-U18103JX" (!) = "", "EXBU18", "Other", "667-EXB-U18103JX", "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EXB-U18103JX", "Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.031, Chip Size (LxW) (mm): 1.4 X 0.6, Resistance Values (?): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.4, Type of Circuit: Isolated Circuit, Number of Elements (piece): 4, T.C.R (?108/K): ?200, Number of Terminals (piece): 8", "https://componentsearchengine.com/Datasheets/1/EXB-U18103JX.pdf", "0.45 mm"
+END_PART
+
+END.

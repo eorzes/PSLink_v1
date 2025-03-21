@@ -1,0 +1,16 @@
+.SN65LVDS4RSER :1 ;500 Mbps LVDS Single High Speed Transceiver
+SN65LVDS4RSER
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="A" 3="B" 4="NC_1" 5="VCC" 6="NC_2" 7="GND_2" 8="R" 9="NC_3" 10="VDD"
+*MXP 10
+*DFN SN65LVDS4RSER
+~!Mouser Part Number (595-SN65LVDS4RSER)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65LVDS4RSER?qs=kO%2FAGeZgcF8xT3dfx7gx%252Bg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN65LVDS4RSER)
+~!Link Datasheet (http://www.ti.com/lit/gpn/SN65LVDS4)
+~!Height (0.6mm)
+~!3D_Model (SN65LVDS4RSER)
+SN65LVDS4RSER
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1127166"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-03-04:34:50)
+    (utime 2024-04-01-08:03:29)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "APTD1608LVBC_D")
+)
+
+
+(pinAssign "ECS_1127166"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-03-04:34:50)
+    (utime 2024-04-01-08:03:29)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1127166")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "APTD1608LVBC_D")
+)
+
+
+(part "APTD1608LVBC_D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-03-04:34:50)
+    (utime 2024-04-01-08:03:29)
+    (packageRef "APTD1608LVBC_D")
+    (pinAssignRef "ECS_1127166")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Blue 470nm LED Indication - Discrete 2.65V 0603 (1608 Metric)")
+    (property "Mouser_Part_Number" "604-APTD1608LVBCD")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/APTD1608LVBC-D?qs=6oMev5NRZMEfNSg5xIhlKA%3D%3D")
+    (property "Manufacturer_Name" "Kingbright")
+    (property "Manufacturer_Part_Number" "APTD1608LVBC/D")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/1/APTD1608LVBC_D.pdf")
+    (property "compAreaTopHeight" 1.1)
+)
+
+

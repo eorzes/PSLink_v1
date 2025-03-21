@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NB7V52MMNG
+D Flip Flop D-Type Pos-Edge/Neg-Edge 1-Element 16-Pin QFN EP Rail
+K
+F https://www.onsemi.com/pdf/datasheet/nb7v52m-d.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,284 @@
+
+(EDIF
+  (rename &EXB_U18103JX "EXB_U18103JX")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2025 02 17 14 22 56)
+      (dataOrigin "2377475/1532278/2.50/8/2/Resistor Network (8-Pin)")
+      (program "SamacSys ECAD Model EXB_U18103JX"
+        (version "3.1"))))
+  (library
+  (rename &EXB_U18103JX "EXB_U18103JX")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &EXB_U18103JX "EXB_U18103JX")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "RN")
+          (property (rename PACKAGENAME "PackageName") (string "EXB_U18103JX"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "EXBU18"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "667-EXB-U18103JX"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EXB-U18103JX"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Panasonic"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "EXB-U18103JX"))
+          (property (rename &Description "Description") (string "Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.031, Chip Size (LxW) (mm): 1.4 X 0.6, Resistance Values (?): 10000, Resistance Tolerance (percent): 5, Terminal Pitch (mm): 0.4, Type of Circuit: Isolated Circuit, Number of Elements (piece): 4, T.C.R (?108/K): ?200, Number of Terminals (piece): 8"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://componentsearchengine.com/Datasheets/1/EXB-U18103JX.pdf"))
+          (property (rename &Height "Height") (string "0.45 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "EXB_U18103JX"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &4 "4")
+            (designator "4")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &5 "5")
+            (designator "5")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (port
+            (rename &6 "6")
+            (designator "6")
+            (property (rename ORDER "Order") (string "5") (owner "OrCAD"))
+          )
+          (port
+            (rename &7 "7")
+            (designator "7")
+            (property (rename ORDER "Order") (string "6") (owner "OrCAD"))
+          )
+          (port
+            (rename &8 "8")
+            (designator "8")
+            (property (rename ORDER "Order") (string "7") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1)
+              (figure PIN (path (pointList (pt 100 -700) (pt 100 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 100 -700))))
+            )
+            (portImplementation
+              (name &2)
+              (figure PIN (path (pointList (pt 300 -700) (pt 300 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 -700))))
+            )
+            (portImplementation
+              (name &3)
+              (figure PIN (path (pointList (pt 500 -700) (pt 500 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 500 -700))))
+            )
+            (portImplementation
+              (name &4)
+              (figure PIN (path (pointList (pt 700 -700) (pt 700 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 700 -700))))
+            )
+            (portImplementation
+              (name &5)
+              (figure PIN (path (pointList (pt 700 200) (pt 700 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 700 200))))
+            )
+            (portImplementation
+              (name &6)
+              (figure PIN (path (pointList (pt 500 200) (pt 500 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 500 200))))
+            )
+            (portImplementation
+              (name &7)
+              (figure PIN (path (pointList (pt 300 200) (pt 300 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 200))))
+            )
+            (portImplementation
+              (name &8)
+              (figure PIN (path (pointList (pt 100 200) (pt 100 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 100 200))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 800 0)
+                  (pt 800 -500)
+                  (pt 0 -500)
+                  (pt 0 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 50 -150)
+                  (pt 50 -350)
+                  (pt 150 -350)
+                  (pt 150 -150)
+                  (pt 50 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 250 -150)
+                  (pt 250 -350)
+                  (pt 350 -350)
+                  (pt 350 -150)
+                  (pt 250 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 100 -150)
+                  (pt 100 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 100 -350)
+                  (pt 100 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 300 -350)
+                  (pt 300 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 300 -150)
+                  (pt 300 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 500 -150)
+                  (pt 500 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 450 -150)
+                  (pt 450 -350)
+                  (pt 550 -350)
+                  (pt 550 -150)
+                  (pt 450 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 500 -350)
+                  (pt 500 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 700 -150)
+                  (pt 700 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 650 -150)
+                  (pt 650 -350)
+                  (pt 750 -350)
+                  (pt 750 -150)
+                  (pt 650 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 700 -350)
+                  (pt 700 -500)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 820 -270))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 820 -370))))
+          )
+        )
+      )
+    )
+  )
+)

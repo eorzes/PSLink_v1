@@ -1,0 +1,496 @@
+
+(EDIF
+  (rename &EXB_U2H103JV "EXB_U2H103JV")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2025 02 17 15 56 37)
+      (dataOrigin "1118520/1532278/2.50/16/2/Resistor Network (16-Pin)")
+      (program "SamacSys ECAD Model EXB_U2H103JV"
+        (version "3.1"))))
+  (library
+  (rename &EXB_U2H103JV "EXB_U2H103JV")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &EXB_U2H103JV "EXB_U2H103JV")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "RN")
+          (property (rename PACKAGENAME "PackageName") (string "EXB_U2H103JV"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "EXBU2H"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "667-EXB-U2H103JV"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/Panasonic/EXB-U2H103JV?qs=Z3CaLxJiOJJ7jC1v10U%2Fjw%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Panasonic"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "EXB-U2H103JV"))
+          (property (rename &Description "Description") (string "Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.063, Chip Size (LxW) (mm): 3.8 X 1.6, Resistance Values (): 10000, Resistance Tolerance (percent): 5, Terminal Pitch (mm): 0.5, Type of Circuit: Isolated Circuit, Number of Elements (piece): 8, T.C.R (10/K): +/-200, Number of Terminals (piece): 16"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C20.pdf"))
+          (property (rename &Height "Height") (string "0.55 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "EXB_U2H103JV"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &4 "4")
+            (designator "4")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &5 "5")
+            (designator "5")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (port
+            (rename &6 "6")
+            (designator "6")
+            (property (rename ORDER "Order") (string "5") (owner "OrCAD"))
+          )
+          (port
+            (rename &7 "7")
+            (designator "7")
+            (property (rename ORDER "Order") (string "6") (owner "OrCAD"))
+          )
+          (port
+            (rename &8 "8")
+            (designator "8")
+            (property (rename ORDER "Order") (string "7") (owner "OrCAD"))
+          )
+          (port
+            (rename &9 "9")
+            (designator "9")
+            (property (rename ORDER "Order") (string "8") (owner "OrCAD"))
+          )
+          (port
+            (rename &10 "10")
+            (designator "10")
+            (property (rename ORDER "Order") (string "9") (owner "OrCAD"))
+          )
+          (port
+            (rename &11 "11")
+            (designator "11")
+            (property (rename ORDER "Order") (string "10") (owner "OrCAD"))
+          )
+          (port
+            (rename &12 "12")
+            (designator "12")
+            (property (rename ORDER "Order") (string "11") (owner "OrCAD"))
+          )
+          (port
+            (rename &13 "13")
+            (designator "13")
+            (property (rename ORDER "Order") (string "12") (owner "OrCAD"))
+          )
+          (port
+            (rename &14 "14")
+            (designator "14")
+            (property (rename ORDER "Order") (string "13") (owner "OrCAD"))
+          )
+          (port
+            (rename &15 "15")
+            (designator "15")
+            (property (rename ORDER "Order") (string "14") (owner "OrCAD"))
+          )
+          (port
+            (rename &16 "16")
+            (designator "16")
+            (property (rename ORDER "Order") (string "15") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1)
+              (figure PIN (path (pointList (pt 100 -700) (pt 100 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 100 -700))))
+            )
+            (portImplementation
+              (name &2)
+              (figure PIN (path (pointList (pt 300 -700) (pt 300 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 -700))))
+            )
+            (portImplementation
+              (name &3)
+              (figure PIN (path (pointList (pt 500 -700) (pt 500 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 500 -700))))
+            )
+            (portImplementation
+              (name &4)
+              (figure PIN (path (pointList (pt 700 -700) (pt 700 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 700 -700))))
+            )
+            (portImplementation
+              (name &5)
+              (figure PIN (path (pointList (pt 900 -700) (pt 900 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 -700))))
+            )
+            (portImplementation
+              (name &6)
+              (figure PIN (path (pointList (pt 1100 -700) (pt 1100 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 1100 -700))))
+            )
+            (portImplementation
+              (name &7)
+              (figure PIN (path (pointList (pt 1300 -700) (pt 1300 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 1300 -700))))
+            )
+            (portImplementation
+              (name &8)
+              (figure PIN (path (pointList (pt 1500 -700) (pt 1500 -500))))
+              (connectLocation (figure GRAPHIC (dot (pt 1500 -700))))
+            )
+            (portImplementation
+              (name &9)
+              (figure PIN (path (pointList (pt 1500 200) (pt 1500 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 1500 200))))
+            )
+            (portImplementation
+              (name &10)
+              (figure PIN (path (pointList (pt 1300 200) (pt 1300 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 1300 200))))
+            )
+            (portImplementation
+              (name &11)
+              (figure PIN (path (pointList (pt 1100 200) (pt 1100 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 1100 200))))
+            )
+            (portImplementation
+              (name &12)
+              (figure PIN (path (pointList (pt 900 200) (pt 900 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 200))))
+            )
+            (portImplementation
+              (name &13)
+              (figure PIN (path (pointList (pt 700 200) (pt 700 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 700 200))))
+            )
+            (portImplementation
+              (name &14)
+              (figure PIN (path (pointList (pt 500 200) (pt 500 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 500 200))))
+            )
+            (portImplementation
+              (name &15)
+              (figure PIN (path (pointList (pt 300 200) (pt 300 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 200))))
+            )
+            (portImplementation
+              (name &16)
+              (figure PIN (path (pointList (pt 100 200) (pt 100 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 100 200))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 1600 0)
+                  (pt 1600 -500)
+                  (pt 0 -500)
+                  (pt 0 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 50 -150)
+                  (pt 50 -350)
+                  (pt 150 -350)
+                  (pt 150 -150)
+                  (pt 50 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 250 -150)
+                  (pt 250 -350)
+                  (pt 350 -350)
+                  (pt 350 -150)
+                  (pt 250 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 100 -150)
+                  (pt 100 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 100 -350)
+                  (pt 100 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 300 -350)
+                  (pt 300 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 300 -150)
+                  (pt 300 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 500 -150)
+                  (pt 500 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 450 -150)
+                  (pt 450 -350)
+                  (pt 550 -350)
+                  (pt 550 -150)
+                  (pt 450 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 500 -350)
+                  (pt 500 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 700 -150)
+                  (pt 700 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 650 -150)
+                  (pt 650 -350)
+                  (pt 750 -350)
+                  (pt 750 -150)
+                  (pt 650 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 700 -350)
+                  (pt 700 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1500 -350)
+                  (pt 1500 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1450 -150)
+                  (pt 1450 -350)
+                  (pt 1550 -350)
+                  (pt 1550 -150)
+                  (pt 1450 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1500 -150)
+                  (pt 1500 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1300 -350)
+                  (pt 1300 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1250 -150)
+                  (pt 1250 -350)
+                  (pt 1350 -350)
+                  (pt 1350 -150)
+                  (pt 1250 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1300 -150)
+                  (pt 1300 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1100 -150)
+                  (pt 1100 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1100 -350)
+                  (pt 1100 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 900 -350)
+                  (pt 900 -500)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 900 -150)
+                  (pt 900 0)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 1050 -150)
+                  (pt 1050 -350)
+                  (pt 1150 -350)
+                  (pt 1150 -150)
+                  (pt 1050 -150)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 850 -150)
+                  (pt 850 -350)
+                  (pt 950 -350)
+                  (pt 950 -150)
+                  (pt 850 -150)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 820 -270))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 820 -370))))
+          )
+        )
+      )
+    )
+  )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXB-U18103JX
+D Series/Type: Anti-Sulfurated Chip Resistor Array, Power Rating (W): 0.031, Chip Size (LxW) (mm): 1.4 X 0.6, Resistance Values (?): 10000, Resistance Tolerance (%): 5, Terminal Pitch (mm): 0.4, Type of Circuit: Isolated Circuit, Number of Elements (piece): 4, T.C.R (?108/K): ?200, Number of Terminals (piece): 8
+K
+F https://componentsearchengine.com/Datasheets/1/EXB-U18103JX.pdf
+$ENDCMP
+#
+#End Doc Library

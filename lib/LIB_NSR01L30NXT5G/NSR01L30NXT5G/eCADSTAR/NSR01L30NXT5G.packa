@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NSR01L30NXT5G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-17-23:04:00)
+    (mountForm default
+        (footprintRef "NSR01L30NXT5G")
+        (spec "System")
+    )
+)
