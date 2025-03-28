@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=1V8 Pin=C5_Ch0-2
+Removed Pin From Net: NetName=1V8 Pin=C5_Ch1-2
+Removed Pin From Net: NetName=1V8 Pin=C5_Ch2-2
+Removed Pin From Net: NetName=1V8 Pin=C5_Ch3-2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=C148_Ch0(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C148_Ch1(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C148_Ch2(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Component: Designator=C148_Ch3(LLL03TR61E333KE01)
+Add component (AddParameter): Name = "Value"; Value = "33nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VREFAC Pin=C5_Ch0-2
+Added Pin To Net: NetName=VREFAC Pin=C5_Ch1-2
+Added Pin To Net: NetName=VREFAC Pin=C5_Ch2-2
+Added Pin To Net: NetName=VREFAC Pin=C5_Ch3-2
+Added Pin To Net: NetName=GND Pin=C148_Ch0-1
+Added Pin To Net: NetName=VREFAC Pin=C148_Ch0-2
+Added Pin To Net: NetName=GND Pin=C148_Ch1-1
+Added Pin To Net: NetName=VREFAC Pin=C148_Ch1-2
+Added Pin To Net: NetName=GND Pin=C148_Ch2-1
+Added Pin To Net: NetName=VREFAC Pin=C148_Ch2-2
+Added Pin To Net: NetName=GND Pin=C148_Ch3-1
+Added Pin To Net: NetName=VREFAC Pin=C148_Ch3-2
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)
