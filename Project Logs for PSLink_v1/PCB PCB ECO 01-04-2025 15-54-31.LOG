@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CLK40_P Pin=R75-1
+Removed Pin From Net: NetName=GND Pin=R75-2
+Removed Pin From Net: NetName=GND Pin=R77-1
+Removed Pin From Net: NetName=CLK40_N Pin=R77-2
+Removed Pin From Net: NetName=GND Pin=RN3-1
+Removed Pin From Net: NetName=GND Pin=RN3-2
+Removed Pin From Net: NetName=GND Pin=RN3-3
+Removed Pin From Net: NetName=GND Pin=RN3-4
+Removed Pin From Net: NetName=SOUT_PSC Pin=RN3-5
+Removed Pin From Net: NetName=SDA_PSC Pin=RN3-6
+Removed Pin From Net: NetName=SCL_PSC Pin=RN3-7
+Removed Pin From Net: NetName=SLOAD_PSC Pin=RN3-8
+Removed Member From Class: ClassName=U_phase-shifters Member=R75
+Removed Member From Class: ClassName=U_phase-shifters Member=R77
+Removed Member From Class: ClassName=U_phase-shifters Member=RN3
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Net Name : Old Net Name=NetIC8_7 New Net Name=XTAL_GND
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)
