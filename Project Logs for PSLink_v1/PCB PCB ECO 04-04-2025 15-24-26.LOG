@@ -1,0 +1,11 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Component Footprint: Designator=R15 Old Footprint=RESC1005X40N New Footprint=MURATA_HI_DENSITY_0201
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\QQOBQGXT" ("\KQHXEXVH\QQOBQGXT")
+Change component parameters (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=P12V Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=P3V6 Pin=C36-2
+Removed Pin From Net: NetName=P3V6 Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C64-1
+Removed Pin From Net: NetName=3V3CDR_EN Pin=C64-2
+Removed Pin From Net: NetName=GND Pin=C98-1
+Removed Pin From Net: NetName=1V8_EN Pin=C98-2
+Removed Pin From Net: NetName=1V8 Pin=W4-1
+Removed Pin From Net: NetName=GND Pin=W4-3
+Removed Member From Class: ClassName=U_PLL Member=W4
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Component Footprint: Designator=C57 Old Footprint=CAPC0603X33N New Footprint=MURATA_HI_DENSITY_0402_CAP
+Change Component Footprint: Designator=C64 Old Footprint=CAPC0603X33N New Footprint=MURATA_HI_DENSITY_0402_CAP
+Change Component Footprint: Designator=C98 Old Footprint=CAPC0603X33N New Footprint=MURATA_HI_DENSITY_0402_CAP
+Change Component Footprint: Designator=C34 Old Footprint=CAPC2012X135N New Footprint=CAPC1608X87N
+Change Component Footprint: Designator=C33 Old Footprint=MURATA_HI_DENSITY_0201 New Footprint=MURATA_HI_DENSITY_0402_CAP
+Change Component Footprint: Designator=C35 Old Footprint=MURATA_HI_DENSITY_0201 New Footprint=MURATA_HI_DENSITY_0402_CAP
+Change Component Footprint: Designator=C36 Old Footprint=MURATA_HI_DENSITY_0201 New Footprint=MURATA_HI_DENSITY_0402_CAP
+Change component parameters: Designator = "C33" ("C33"); Footprint = "MURATA_HI_DENSITY_0201"; UniqueID = "\KQHXEXVH\JAQGWYAO" ("\KQHXEXVH\JAQGWYAO")
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "CAPC2012X135N"; UniqueID = "\KQHXEXVH\KUGSJHYE" ("\KQHXEXVH\KUGSJHYE")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\CC0603_X5R_KEMET.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 Example"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 Part Number"; Value = "C0603C106M9PAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603_10uF_6.3V_20%_X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "SMD Multilayer Chip Ceramic Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0603_10UF_6.3V_20%_X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "MURATA_HI_DENSITY_0201"; UniqueID = "\KQHXEXVH\YZUYOIFO" ("\KQHXEXVH\YZUYOIFO")
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "MURATA_HI_DENSITY_0201"; UniqueID = "\KQHXEXVH\KHJMQZTB" ("\KQHXEXVH\KHJMQZTB")
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C57" ("C57"); Footprint = "CAPC0603X33N"; UniqueID = "\KQHXEXVH\BKMBSCDL" ("\KQHXEXVH\BKMBSCDL")
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C64" ("C64"); Footprint = "CAPC0603X33N"; UniqueID = "\KQHXEXVH\FMIHVRZR" ("\KQHXEXVH\FMIHVRZR")
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C98" ("C98"); Footprint = "CAPC0603X33N"; UniqueID = "\KQHXEXVH\VILFNNLV" ("\KQHXEXVH\VILFNNLV")
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P12V Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=P3V6 Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=P3V6 Pin=C57-2
+Added Pin To Net: NetName=3V3CDR_EN Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=1V8_EN Pin=C98-1
+Added Pin To Net: NetName=GND Pin=C98-2
+Added Pin To Net: NetName=NetC57_1 Pin=C57-1
+Added Pin To Net: NetName=NetC57_1 Pin=R18-2
+Added Pin To Net: NetName=NetC57_1 Pin=U2-6
+Added Net: Name=NetC57_1
+Added Pin To Net: NetName=PLL_IN_SEL Pin=IC8-3
+Added Pin To Net: NetName=PLL_IN_SEL Pin=J4-G16
+Added Net: Name=PLL_IN_SEL
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

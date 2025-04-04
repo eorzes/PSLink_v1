@@ -1,0 +1,27 @@
+switching: 550kHz
+
+Cboot; Cinx; Coutx 0402 100nF X7R 25V 50mOhm GRM155R71E104KE14
+
+L1 6x7mm 4.7uH 30mOhm 74437349047
+
+Cin 0603 10uF X5R 25V 4.6mOhm C1608X5R1E106M080AC
+
+Cff 0402 22pF C0G 16V 0Ohm C0402C220J4GACTU
+
+
+
+
+
+
+
+
+
+(DesignItemId Like '*100nF*')
+(Comment Like '*100nF*')
+
+https://ds.murata.co.jp/simsurfing/mlcc.html?lcid=en-us&jis=false
+
+https://www.murata.com/support/faqs/capacitor/ceramiccapacitor/char/0058
+
+https://www.murata.com/support/faqs/capacitor/ceramiccapacitor/char/0017
+

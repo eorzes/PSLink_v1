@@ -1,0 +1,34 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=W1(SAMTEC_HTSW-103-23-L-S)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "8.38mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "2/22/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Header 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_HTSW-103-23-L-S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2/22/2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HTSW-103-23-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "3 Contacts, Pitch 2.54mm, Single Row Through Mount Straight Header (Post Lead 5.84mm, Tail Lead 2.92mm, Insulator 2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_HTSW-103-23-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Preferred"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status Comment"; Value = "High Temperature"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1V8 Pin=W1-1
+Added Pin To Net: NetName=GND Pin=W1-3
+Added Pin To Net: NetName=NetIC8_3 Pin=IC8-3
+Added Pin To Net: NetName=NetIC8_3 Pin=W1-2
+Added Net: Name=NetIC8_3
+Added Member To Class: ClassName=U_PLL Member=Component W1 Header 3
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

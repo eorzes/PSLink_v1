@@ -1,0 +1,49 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Footprint: Cannot match pads with new footprint in component :L2 Footprint:DFE322520FD1R0MP2
+Change Footprint: Cannot match pads with new footprint in component :L3 Footprint:DFE322520FD1R0MP2
+Change Footprint: Cannot match pads with new footprint in component :L4 Footprint:DFE322520FD1R0MP2
+Change Footprint: Cannot match pads with new footprint in component :L5 Footprint:DFE322520FD1R0MP2
+Change Component Comment : Designator=L1 Old Comment=DFE322520FD-4R7M=P2 New Comment=4.7uH
+Change component parameters: Designator = "L2" ("L2"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\ASHKZGXP\FUFGKNWU" ("\ASHKZGXP\FUFGKNWU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\ASHKZGXP\KKCHRDGH" ("\ASHKZGXP\KKCHRDGH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4" ("L4"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\ASHKZGXP\WWVHIPOL" ("\ASHKZGXP\WWVHIPOL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5" ("L5"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\ASHKZGXP\HTERIQZH" ("\ASHKZGXP\HTERIQZH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

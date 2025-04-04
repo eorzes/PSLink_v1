@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=DFE322520FD-4R7M=P2
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=3.3
+Released=2019-07-12 13:53:31
+Downloaded=2025-04-04 11:28:23
+3D=Y

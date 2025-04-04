@@ -1,0 +1,34 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=U10(RDJ0023A-MFG)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P3V3 Pin=U10-1
+Added Pin To Net: NetName=NetR7_1 Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=GND Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-10
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=P2V05 Pin=U10-12
+Added Pin To Net: NetName=P2V05 Pin=U10-13
+Added Pin To Net: NetName=P2V05 Pin=U10-14
+Added Pin To Net: NetName=P2V05 Pin=U10-15
+Added Pin To Net: NetName=P2V05 Pin=U10-16
+Added Pin To Net: NetName=NetR8_1 Pin=U10-17
+Added Pin To Net: NetName=GND Pin=U10-18
+Added Pin To Net: NetName=GND Pin=U10-19
+Added Pin To Net: NetName=GND Pin=U10-20
+Added Pin To Net: NetName=P3V3 Pin=U10-21
+Added Pin To Net: NetName=P3V3 Pin=U10-22
+Added Pin To Net: NetName=GND Pin=U10-23
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)
