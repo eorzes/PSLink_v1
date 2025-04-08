@@ -1,0 +1,18 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=U9(X2SON_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA_O Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=SDA_1V Pin=U9-4
+Added Pin To Net: NetName=1VPSF Pin=U9-5
+Added Member To Class: ClassName=U_phase-shifters Member=Component U9 SN74AUP1G125DPWR
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

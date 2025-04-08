@@ -1,0 +1,55 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=J1(20072631_NP)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2007263-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2007263-1/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773455-3_Quick_Ref_Guide_SFP%2B_Sol&DocType=Data%20Sheet&DocLang=English&PartCntxt=2007263-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2007263-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-2007263-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2007263-1?qs=4zF2lffhceF8GItBX4M8mw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-15
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-17
+Added Pin To Net: NetName=GND Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=GND Pin=J1-20
+Added Pin To Net: NetName=GND Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-22
+Added Pin To Net: NetName=GND Pin=J1-23
+Added Pin To Net: NetName=GND Pin=J1-24
+Added Pin To Net: NetName=GND Pin=J1-25
+Added Pin To Net: NetName=GND Pin=J1-26
+Added Pin To Net: NetName=GND Pin=J1-27
+Added Pin To Net: NetName=GND Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=GND Pin=J1-30
+Added Pin To Net: NetName=GND Pin=J1-31
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=GND Pin=J1-33
+Added Pin To Net: NetName=GND Pin=J1-34
+Added Pin To Net: NetName=GND Pin=J1-35
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=GND Pin=J1-37
+Added Member To Class: ClassName=U_SFP Member=Component J1 2007263-1_NP
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

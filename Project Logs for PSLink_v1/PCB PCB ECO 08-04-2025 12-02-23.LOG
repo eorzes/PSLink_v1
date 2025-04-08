@@ -1,0 +1,164 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=J5(SAMTEC_SMA-J-P-H-ST-MT1)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "7.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_SMA-J-P-H-ST-MT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "50 Ohms SMA Straight Mixed Technology PCB Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense Comment"; Value = "assembly limitations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Added Component: Designator=J6(SAMTEC_SMA-J-P-H-ST-MT1)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "7.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_SMA-J-P-H-ST-MT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "50 Ohms SMA Straight Mixed Technology PCB Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense Comment"; Value = "assembly limitations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Added Component: Designator=J7(SAMTEC_SMA-J-P-H-ST-MT1)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "7.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_SMA-J-P-H-ST-MT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "50 Ohms SMA Straight Mixed Technology PCB Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense Comment"; Value = "assembly limitations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Added Component: Designator=J8(SAMTEC_SMA-J-P-H-ST-MT1)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "7.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_SMA-J-P-H-ST-MT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "50 Ohms SMA Straight Mixed Technology PCB Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense Comment"; Value = "assembly limitations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Added Component: Designator=J9(SAMTEC_SMA-J-P-H-ST-MT1)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "7.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_SMA-J-P-H-ST-MT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "50 Ohms SMA Straight Mixed Technology PCB Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense Comment"; Value = "assembly limitations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Added Component: Designator=J10(SAMTEC_SMA-J-P-H-ST-MT1)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "7.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SAMTEC_SMA-J-P-H-ST-MT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "5/24/2023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "50 Ohms SMA Straight Mixed Technology PCB Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SAMTEC_SMA-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense Comment"; Value = "assembly limitations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC111_2 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=NetC116_2 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=PLL_IN_AUX_P Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=PLL_SMA_OUT_P Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=PLL_IN_AUX_N Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=PLL_SMA_OUT_N Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Member To Class: ClassName=U_FMC Member=Component J5 SMA
+Added Member To Class: ClassName=U_FMC Member=Component J6 SMA
+Added Member To Class: ClassName=U_PLL Member=Component J7 SMA
+Added Member To Class: ClassName=U_PLL Member=Component J8 SMA
+Added Member To Class: ClassName=U_PLL Member=Component J9 SMA
+Added Member To Class: ClassName=U_PLL Member=Component J10 SMA
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

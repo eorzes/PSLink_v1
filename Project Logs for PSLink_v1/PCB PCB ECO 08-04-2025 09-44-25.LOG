@@ -1,0 +1,21 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=U8(DTM0008A-MFG)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=1VPSF Pin=U8-2
+Added Pin To Net: NetName=SCL_1V Pin=U8-3
+Added Pin To Net: NetName=SDA_1V Pin=U8-4
+Added Pin To Net: NetName=SDA_PSF Pin=U8-5
+Added Pin To Net: NetName=SCL_PSF Pin=U8-6
+Added Pin To Net: NetName=NetC138_2 Pin=U8-7
+Added Pin To Net: NetName=OE_LS Pin=U8-8
+Added Member To Class: ClassName=U_phase-shifters Member=Component U8 TCA39306DTMR
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)
