@@ -1,7 +1,7 @@
 *PADS-LIBRARY-PART-TYPES-V9*
 
 APTD1608LVBC_D LEDC1608X110N I DIO 7 1 0 0 0
-TIMESTAMP 2024.12.13.12.15.24
+TIMESTAMP 2025.04.15.14.38.29
 "Mouser Part Number" 604-APTD1608LVBCD
 "Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Kingbright/APTD1608LVBC-D?qs=6oMev5NRZMEfNSg5xIhlKA%3D%3D
 "Manufacturer_Name" Kingbright

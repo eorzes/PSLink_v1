@@ -1,0 +1,30 @@
+Added Component: Designator=IC10(SOP50P490X110-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TCA9548ADGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tca9548adgsr/texas-instruments?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tca9548a.pdf?ts=1738746169750&ref_url=https%253A%252F%252Fwww.mouser.de%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TCA9548ADGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TCA9548ADGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCA9548ADGSR?qs=olJun0bQHM%252B7USbLxm4jDw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P3V3 Pin=IC10-1
+Added Pin To Net: NetName=P3V3 Pin=IC10-2
+Added Pin To Net: NetName=NetIC10_3 Pin=IC10-3
+Added Pin To Net: NetName=SDA0 Pin=IC10-4
+Added Pin To Net: NetName=SCL0 Pin=IC10-5
+Added Pin To Net: NetName=SDA1 Pin=IC10-6
+Added Pin To Net: NetName=SCL1 Pin=IC10-7
+Added Pin To Net: NetName=SDA_CDR_0 Pin=IC10-8
+Added Pin To Net: NetName=SCL_CDR_0 Pin=IC10-9
+Added Pin To Net: NetName=SDA_CDR_1 Pin=IC10-10
+Added Pin To Net: NetName=SCL_CDR_1 Pin=IC10-11
+Added Pin To Net: NetName=GND Pin=IC10-12
+Added Pin To Net: NetName=SDA_CDR_2 Pin=IC10-13
+Added Pin To Net: NetName=SCL_CDR_2 Pin=IC10-14
+Added Pin To Net: NetName=SDA_CDR_3 Pin=IC10-15
+Added Pin To Net: NetName=SCL_CDR_3 Pin=IC10-16
+Added Pin To Net: NetName=P3V3 Pin=IC10-21
+Added Pin To Net: NetName=ADJ_SCL Pin=IC10-22
+Added Pin To Net: NetName=ADJ_SDA Pin=IC10-23
+Added Pin To Net: NetName=P3V3 Pin=IC10-24
+Added Member To Class: ClassName=U_FMC Member=Component IC10 TCA9548ADGSR

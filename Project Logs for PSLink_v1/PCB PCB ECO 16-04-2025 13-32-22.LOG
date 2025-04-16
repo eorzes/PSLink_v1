@@ -1,0 +1,4 @@
+Added Component: Designator=IC8(PT100)
+Added Pin To Net: NetName=NetIC8_1 Pin=IC8-1
+Added Pin To Net: NetName=NetIC8_2 Pin=IC8-2
+Added Member To Class: ClassName=U_SFP Member=Component IC8 32207590

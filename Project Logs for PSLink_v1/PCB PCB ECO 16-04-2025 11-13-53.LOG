@@ -1,0 +1,51 @@
+Added Component: Designator=U4(RUT12_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U5(RUT12_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U7(RUT12_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VADJ Pin=U4-1
+Added Pin To Net: NetName=LOS_0_ADJ Pin=U4-2
+Added Pin To Net: NetName=LOL_0_ADJ Pin=U4-3
+Added Pin To Net: NetName=LOS_1_ADJ Pin=U4-4
+Added Pin To Net: NetName=LOL_1_ADJ Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=CDR_LOL_1 Pin=U4-7
+Added Pin To Net: NetName=CDR_LOS_1 Pin=U4-8
+Added Pin To Net: NetName=CDR_LOL_0 Pin=U4-9
+Added Pin To Net: NetName=CDR_LOS_0 Pin=U4-10
+Added Pin To Net: NetName=P3V3 Pin=U4-11
+Added Pin To Net: NetName=OE_LS Pin=U4-12
+Added Pin To Net: NetName=VADJ Pin=U5-1
+Added Pin To Net: NetName=LOS_2_ADJ Pin=U5-2
+Added Pin To Net: NetName=LOL_2_ADJ Pin=U5-3
+Added Pin To Net: NetName=LOS_3_ADJ Pin=U5-4
+Added Pin To Net: NetName=LOL_3_ADJ Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=CDR_LOL_3 Pin=U5-7
+Added Pin To Net: NetName=CDR_LOS_3 Pin=U5-8
+Added Pin To Net: NetName=CDR_LOL_2 Pin=U5-9
+Added Pin To Net: NetName=CDR_LOS_2 Pin=U5-10
+Added Pin To Net: NetName=P3V3 Pin=U5-11
+Added Pin To Net: NetName=OE_LS Pin=U5-12
+Added Pin To Net: NetName=VADJ Pin=U7-1
+Added Pin To Net: NetName=SOUT_PSC Pin=U7-2
+Added Pin To Net: NetName=SDA_PSC Pin=U7-3
+Added Pin To Net: NetName=SCL_PSC Pin=U7-4
+Added Pin To Net: NetName=SLOAD_PSC Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=SLOAD_PSC_3V3 Pin=U7-7
+Added Pin To Net: NetName=SCL_PSC_3V3 Pin=U7-8
+Added Pin To Net: NetName=SDA_PSC_3V3 Pin=U7-9
+Added Pin To Net: NetName=SOUT_PSC_3V3 Pin=U7-10
+Added Pin To Net: NetName=P3V3 Pin=U7-11
+Added Pin To Net: NetName=OE_LS Pin=U7-12
+Added Member To Class: ClassName=U_FMC Member=Component U4 TXB0104RUTR
+Added Member To Class: ClassName=U_FMC Member=Component U5 TXB0104RUTR
+Added Member To Class: ClassName=U_phase-shifters Member=Component U7 TXB0104RUTR

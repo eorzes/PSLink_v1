@@ -662,40 +662,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JSSACJHK
 
 [Document37]
-DocumentPath=lib\LIB_APTD1608LVBC_D\APTD1608LVBC_D\Altium\APTD1608LVBC_D.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BTQCAZHA
-
-[Document38]
-DocumentPath=lib\LIB_APTD1608LVBC_D\APTD1608LVBC_D\Altium\LEDC1608X110N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BYUQAJXL
-
-[Document39]
 DocumentPath=lib\SEAM-40-03.5-S-10-2-A-K-TR\SEAM-40-03.5-S-10-2-A-K-TR\SAMTEC_SEAM-40-03.5-S-10-2-A-K-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRUQIYSB
 
-[Document40]
+[Document38]
 DocumentPath=lib\SEAM-40-03.5-S-10-2-A-K-TR\SEAM-40-03.5-S-10-2-A-K-TR\SEAM-40-03.5-S-10-2-A-K-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHFVXCVM
 
-[Document41]
+[Document39]
 DocumentPath=lib\EXB28V472JX\EXB28V472JX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WORGRAGB
 
-[Document42]
+[Document40]
 DocumentPath=lib\EXB28V472JX\EXB28V472JX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDGMRLLN
 
-[Document43]
+[Document41]
 DocumentPath=lib\EXB_2HV472JV\EXB-2HV472JV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document42]
 DocumentPath=lib\EXB_2HV472JV\EXB-2HV472JV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGOQWWTS
 
-[Document45]
+[Document43]
 DocumentPath=lib\PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KAODCMDY
 
-[Document46]
+[Document44]
 DocumentPath=lib\schLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZVDHRYK
 
-[Document47]
+[Document45]
 DocumentPath=lib\ul_SY89297UMG-TR\AltiumDesigner\SY89297UMG-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPWPIEBD
 
-[Document48]
+[Document46]
 DocumentPath=lib\ul_SY89297UMG-TR\AltiumDesigner\SY89297UMG-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQYQGHBT
 
-[Document49]
+[Document47]
 DocumentPath=lib\DCPS3\DCPS3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBUQUNCH
 
-[Document50]
+[Document48]
 DocumentPath=lib\DCPS3\DCPS3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IWNLJJIQ
 
-[Document51]
+[Document49]
 DocumentPath=lib\SN74AUC125RGYR\AltiumDesigner\SN74AUC125RGYR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWDYXXKI
 
-[Document52]
+[Document50]
 DocumentPath=lib\SN74AUC125RGYR\AltiumDesigner\SN74AUC125RGYR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNHMGVPE
 
-[Document53]
+[Document51]
 DocumentPath=lib\TXB0104RUTR\AltiumDesigner\TXB0104RUTR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -948,9 +914,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JNKADBWL
 
-[Document54]
+[Document52]
 DocumentPath=lib\TXB0104RUTR\AltiumDesigner\TXB0104RUTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPKNNFEJ
 
-[Document55]
+[Document53]
 DocumentPath=lib\TCA39306DTMR\AltiumDesigner\TCA39306DTMR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAQNHHRG
 
-[Document56]
+[Document54]
 DocumentPath=lib\TCA39306DTMR\AltiumDesigner\TCA39306DTMR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRRGOTBH
 
-[Document57]
+[Document55]
 DocumentPath=lib\SN74AUP1G125DPWR\AltiumDesigner\SN74AUP1G125DPWR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWXQECGK
 
-[Document58]
+[Document56]
 DocumentPath=lib\SN74AUP1G125DPWR\AltiumDesigner\SN74AUP1G125DPWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFPRUHPS
 
-[Document59]
+[Document57]
 DocumentPath=lib\SN74AUC2G241YZPR\AltiumDesigner\SN74AUC2G241YZPR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDFWCDYE
 
-[Document60]
+[Document58]
 DocumentPath=lib\SN74AUC2G241YZPR\AltiumDesigner\SN74AUC2G241YZPR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUMLKMDO
 
-[Document61]
+[Document59]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document60]
 DocumentPath=lib\ul_XPSM82866AA0SRDJR\AltiumDesigner\XPSM82866AA0SRDJR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPALKJLI
 
-[Document63]
+[Document61]
 DocumentPath=lib\ul_XPSM82866AA0SRDJR\AltiumDesigner\XPSM82866AA0SRDJR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1120,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUMCIGWR
 
-[Document64]
+[Document62]
 DocumentPath=lib\74437349047\Altium_WE-LHMI_rev25a\WE-LHMI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1137,7 +1103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document63]
 DocumentPath=lib\74437349047\Altium_WE-LHMI_rev25a\WE-LHMI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1153,6 +1119,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLFEBSAF
+
+[Document64]
+DocumentPath=lib\PT100\PT100.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document65]
+DocumentPath=lib\PT100\PT100.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HYJSFHMS
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PSLink\PSLink.xlsx
