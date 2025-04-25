@@ -1,0 +1,11 @@
+Added Component: Designator=J?(HARWIN_S1751-46)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S1751-46/Harwin+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S1751-46"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S1751-46/Harwin+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_SFP Member=Component J1 2007263-1_NP
+Added Member To Class: ClassName=U_SFP Member=Component J2 SFP+
+Added Member To Class: ClassName=U_SFP Member=Component J3 SFP+
+Added Member To Class: ClassName=U_FMC Member=Component J? S1751-46

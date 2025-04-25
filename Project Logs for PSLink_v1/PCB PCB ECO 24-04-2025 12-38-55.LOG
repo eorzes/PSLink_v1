@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=P3V3 Pin=C90-2
+Removed Pin From Net: NetName=VADJ Pin=D5-1
+Removed Pin From Net: NetName=OE_LS Pin=D5-2
+Removed Pin From Net: NetName=P3V3 Pin=IC10-1
+Removed Pin From Net: NetName=P3V3 Pin=IC10-2
+Removed Pin From Net: NetName=P3V3 Pin=IC10-21
+Removed Pin From Net: NetName=P3V3 Pin=IC10-24
+Removed Pin From Net: NetName=OE_LS Pin=R38-1
+Removed Pin From Net: NetName=GND Pin=R38-2
+Removed Pin From Net: NetName=P3V3 Pin=R39-1
+Removed Pin From Net: NetName=OE_LS Pin=R39-2
+Removed Pin From Net: NetName=VADJ Pin=R64-2
+Removed Pin From Net: NetName=1VPSF Pin=R77-2
+Removed Pin From Net: NetName=1VPSF Pin=R78-1
+Removed Member From Class: ClassName=U_FMC Member=R64
+Removed Member From Class: ClassName=U_phase-shifters Member=R78
+Change Component Footprint: Designator=R77 Old Footprint=MURATA_HI_DENSITY_0201 New Footprint=RESC1005X40N
+Change Component Comment : Designator=R77 Old Comment=10k New Comment=1k5
+Change Component Comment : Designator=R39 Old Comment=10k New Comment=1M
+Change component parameters: Designator = "R77" ("R77"); Footprint = "MURATA_HI_DENSITY_0201"; UniqueID = "\ARQPRAUY\CQGOCPQM" ("\ARQPRAUY\CQGOCPQM")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "12/3/2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "10/17/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 Example"; Value = "YAGEO PHYCOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 Part Number"; Value = "232270671502L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "R0402_1K5_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R0402_1K5_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.0625W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VADJ Pin=C90-2
+Added Pin To Net: NetName=pg Pin=C148-1
+Added Pin To Net: NetName=VADJ Pin=IC10-1
+Added Pin To Net: NetName=VADJ Pin=IC10-2
+Added Pin To Net: NetName=OE_LS Pin=IC10-3
+Added Pin To Net: NetName=VADJ Pin=IC10-21
+Added Pin To Net: NetName=VADJ Pin=IC10-24
+Added Pin To Net: NetName=OE_LS Pin=J4-G16
+Added Pin To Net: NetName=pg Pin=Q12-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=OE_LS Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=1VPSF Pin=R39-2
+Added Pin To Net: NetName=P3V3 Pin=R77-2
+Added Pin To Net: NetName=pg Pin=U8-7
+Change Net Name : Old Net Name=pg New Net Name=OE_SN74
+Added Member To Class: ClassName=U_FMC Member=Component R38 10k
+Added Member To Class: ClassName=U_phase-shifters Member=Component R39 1M
