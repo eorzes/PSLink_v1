@@ -1,0 +1,29 @@
+VCU118 test on LA pins with LVDS configuration - with enabled and disabled DQS_BIAS
+
+V_bias is measured between SMA signal pin and GND
+
+set_property PACKAGE_PIN BC15  [get_ports LA_TST_bit_ou_LA07_p];  # meaasured V_bias of 1.32V
+set_property PACKAGE_PIN BD15  [get_ports LA_TST_bit_ou_LA07_n]; 
+set_property PACKAGE_PIN BA14  [get_ports LA_TST_bit_ou_LA09_p];  # meaasured V_bias of 1.32V
+set_property PACKAGE_PIN BB14  [get_ports LA_TST_bit_ou_LA09_n];
+set_property IOSTANDARD  LVDS  [get_ports LA_TST_bit_ou_LA07_*];
+set_property IOSTANDARD  LVDS  [get_ports LA_TST_bit_ou_LA09_*];
+ 
+set_property PACKAGE_PIN BE15  [get_ports LA_TST_bit_in_LA08_p];   
+set_property PACKAGE_PIN BF15  [get_ports LA_TST_bit_in_LA08_n];
+set_property PACKAGE_PIN BB13  [get_ports LA_TST_bit_in_LA10_p];
+set_property PACKAGE_PIN BB12  [get_ports LA_TST_bit_in_LA10_n];
+set_property IOSTANDARD  LVDS  [get_ports LA_TST_bit_in_LA08_*];
+set_property IOSTANDARD  LVDS  [get_ports LA_TST_bit_in_LA10_*];
+set_property DQS_BIAS    TRUE  [get_ports LA_TST_bit_in_LA08_*];   # meaasured V_bias of 0.94V (test of interest)
+set_property DQS_BIAS    FALSE [get_ports LA_TST_bit_in_LA10_*];   # meaasured V_bias of 0.16V
+set_property DIFF_TERM   TRUE  [get_ports LA_TST_bit_in_LA08_*];
+set_property DIFF_TERM   TRUE  [get_ports LA_TST_bit_in_LA10_*];
+
+data pattern -> LA07 -> SMA       -> LA08 -> ILA : data received correctly
+data pattern -> LA07 -> SMA + CAP -> LA08 -> ILA : data received correctly (test of interest)
+
+data pattern -> LA09 -> SMA       -> LA10 -> ILA : data NOT received correctly
+data pattern -> LA09 -> SMA + CAP -> LA10 -> ILA : data NOT received correctly
+
+(only p is connected - n is NOT terminated, USING GBT_SFP_FMC EDA-04010-V1)
