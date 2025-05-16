@@ -1,0 +1,188 @@
+Added Component: Designator=LED1_l0(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1_l1(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1_l2(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1_l3(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_l0(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_l1(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_l2(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_l3(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1_l0-1
+Added Pin To Net: NetName=NetLED1_l0_2 Pin=LED1_l0-2
+Added Pin To Net: NetName=GND Pin=LED1_l1-1
+Added Pin To Net: NetName=NetLED1_l1_2 Pin=LED1_l1-2
+Added Pin To Net: NetName=GND Pin=LED1_l2-1
+Added Pin To Net: NetName=NetLED1_l2_2 Pin=LED1_l2-2
+Added Pin To Net: NetName=GND Pin=LED1_l3-1
+Added Pin To Net: NetName=NetLED1_l3_2 Pin=LED1_l3-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetR4_l0_1 Pin=U1_l0-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_l0-2
+Added Pin To Net: NetName=NetC28_l0_2 Pin=U1_l0-3
+Added Pin To Net: NetName=DATA_IN_C_l0_N Pin=U1_l0-4
+Added Pin To Net: NetName=DATA_IN_C_l0_P Pin=U1_l0-5
+Added Pin To Net: NetName=GND Pin=U1_l0-6
+Added Pin To Net: NetName=GND Pin=U1_l0-7
+Added Pin To Net: NetName=GND Pin=U1_l0-8
+Added Pin To Net: NetName=NetR5_l0_2 Pin=U1_l0-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_l0-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_l0-12
+Added Pin To Net: NetName=GND Pin=U1_l0-13
+Added Pin To Net: NetName=NetC32_l0_1 Pin=U1_l0-14
+Added Pin To Net: NetName=NetC32_l0_2 Pin=U1_l0-15
+Added Pin To Net: NetName=CDR_LOL_0 Pin=U1_l0-16
+Added Pin To Net: NetName=GND Pin=U1_l0-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_l0-18
+Added Pin To Net: NetName=GND Pin=U1_l0-19
+Added Pin To Net: NetName=SCL_CDR_0 Pin=U1_l0-20
+Added Pin To Net: NetName=SDA_CDR_0 Pin=U1_l0-21
+Added Pin To Net: NetName=CDR_LOS_0 Pin=U1_l0-22
+Added Pin To Net: NetName=GND Pin=U1_l0-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_l0-24
+Added Pin To Net: NetName=CLOCK_OUT_l0_N Pin=U1_l0-25
+Added Pin To Net: NetName=CLOCK_OUT_l0_P Pin=U1_l0-26
+Added Pin To Net: NetName=GND Pin=U1_l0-27
+Added Pin To Net: NetName=GND Pin=U1_l0-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_l0-31
+Added Pin To Net: NetName=NetR3_l0_1 Pin=U1_l0-32
+Added Pin To Net: NetName=GND Pin=U1_l0-33
+Added Pin To Net: NetName=NetR4_l1_1 Pin=U1_l1-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_l1-2
+Added Pin To Net: NetName=NetC28_l1_2 Pin=U1_l1-3
+Added Pin To Net: NetName=DATA_IN_C_l1_N Pin=U1_l1-4
+Added Pin To Net: NetName=DATA_IN_C_l1_P Pin=U1_l1-5
+Added Pin To Net: NetName=GND Pin=U1_l1-6
+Added Pin To Net: NetName=GND Pin=U1_l1-7
+Added Pin To Net: NetName=GND Pin=U1_l1-8
+Added Pin To Net: NetName=NetR5_l1_2 Pin=U1_l1-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_l1-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_l1-12
+Added Pin To Net: NetName=GND Pin=U1_l1-13
+Added Pin To Net: NetName=NetC32_l1_1 Pin=U1_l1-14
+Added Pin To Net: NetName=NetC32_l1_2 Pin=U1_l1-15
+Added Pin To Net: NetName=CDR_LOL_1 Pin=U1_l1-16
+Added Pin To Net: NetName=GND Pin=U1_l1-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_l1-18
+Added Pin To Net: NetName=GND Pin=U1_l1-19
+Added Pin To Net: NetName=SCL_CDR_1 Pin=U1_l1-20
+Added Pin To Net: NetName=SDA_CDR_1 Pin=U1_l1-21
+Added Pin To Net: NetName=CDR_LOS_1 Pin=U1_l1-22
+Added Pin To Net: NetName=GND Pin=U1_l1-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_l1-24
+Added Pin To Net: NetName=CLOCK_OUT_l1_N Pin=U1_l1-25
+Added Pin To Net: NetName=CLOCK_OUT_l1_P Pin=U1_l1-26
+Added Pin To Net: NetName=GND Pin=U1_l1-27
+Added Pin To Net: NetName=GND Pin=U1_l1-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_l1-31
+Added Pin To Net: NetName=NetR3_l1_1 Pin=U1_l1-32
+Added Pin To Net: NetName=GND Pin=U1_l1-33
+Added Pin To Net: NetName=NetR4_l2_1 Pin=U1_l2-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_l2-2
+Added Pin To Net: NetName=NetC28_l2_2 Pin=U1_l2-3
+Added Pin To Net: NetName=DATA_IN_C_l2_N Pin=U1_l2-4
+Added Pin To Net: NetName=DATA_IN_C_l2_P Pin=U1_l2-5
+Added Pin To Net: NetName=GND Pin=U1_l2-6
+Added Pin To Net: NetName=GND Pin=U1_l2-7
+Added Pin To Net: NetName=GND Pin=U1_l2-8
+Added Pin To Net: NetName=NetR5_l2_2 Pin=U1_l2-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_l2-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_l2-12
+Added Pin To Net: NetName=GND Pin=U1_l2-13
+Added Pin To Net: NetName=NetC32_l2_1 Pin=U1_l2-14
+Added Pin To Net: NetName=NetC32_l2_2 Pin=U1_l2-15
+Added Pin To Net: NetName=CDR_LOL_2 Pin=U1_l2-16
+Added Pin To Net: NetName=GND Pin=U1_l2-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_l2-18
+Added Pin To Net: NetName=GND Pin=U1_l2-19
+Added Pin To Net: NetName=SCL_CDR_2 Pin=U1_l2-20
+Added Pin To Net: NetName=SDA_CDR_2 Pin=U1_l2-21
+Added Pin To Net: NetName=CDR_LOS_2 Pin=U1_l2-22
+Added Pin To Net: NetName=GND Pin=U1_l2-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_l2-24
+Added Pin To Net: NetName=CLOCK_OUT_l2_N Pin=U1_l2-25
+Added Pin To Net: NetName=CLOCK_OUT_l2_P Pin=U1_l2-26
+Added Pin To Net: NetName=GND Pin=U1_l2-27
+Added Pin To Net: NetName=GND Pin=U1_l2-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_l2-31
+Added Pin To Net: NetName=NetR3_l2_1 Pin=U1_l2-32
+Added Pin To Net: NetName=GND Pin=U1_l2-33
+Added Pin To Net: NetName=NetR4_l3_1 Pin=U1_l3-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_l3-2
+Added Pin To Net: NetName=NetC28_l3_2 Pin=U1_l3-3
+Added Pin To Net: NetName=DATA_IN_C_l3_N Pin=U1_l3-4
+Added Pin To Net: NetName=DATA_IN_C_l3_P Pin=U1_l3-5
+Added Pin To Net: NetName=GND Pin=U1_l3-6
+Added Pin To Net: NetName=GND Pin=U1_l3-7
+Added Pin To Net: NetName=GND Pin=U1_l3-8
+Added Pin To Net: NetName=NetR5_l3_2 Pin=U1_l3-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_l3-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_l3-12
+Added Pin To Net: NetName=GND Pin=U1_l3-13
+Added Pin To Net: NetName=NetC32_l3_1 Pin=U1_l3-14
+Added Pin To Net: NetName=NetC32_l3_2 Pin=U1_l3-15
+Added Pin To Net: NetName=CDR_LOL_3 Pin=U1_l3-16
+Added Pin To Net: NetName=GND Pin=U1_l3-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_l3-18
+Added Pin To Net: NetName=GND Pin=U1_l3-19
+Added Pin To Net: NetName=SCL_CDR_3 Pin=U1_l3-20
+Added Pin To Net: NetName=SDA_CDR_3 Pin=U1_l3-21
+Added Pin To Net: NetName=CDR_LOS_3 Pin=U1_l3-22
+Added Pin To Net: NetName=GND Pin=U1_l3-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_l3-24
+Added Pin To Net: NetName=CLOCK_OUT_l3_N Pin=U1_l3-25
+Added Pin To Net: NetName=CLOCK_OUT_l3_P Pin=U1_l3-26
+Added Pin To Net: NetName=GND Pin=U1_l3-27
+Added Pin To Net: NetName=GND Pin=U1_l3-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_l3-31
+Added Pin To Net: NetName=NetR3_l3_1 Pin=U1_l3-32
+Added Pin To Net: NetName=GND Pin=U1_l3-33
+Added Member To Class: ClassName=U_SFP Member=Component LED2 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED3 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED4 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED5 APTD1608LSECKJ3-PF

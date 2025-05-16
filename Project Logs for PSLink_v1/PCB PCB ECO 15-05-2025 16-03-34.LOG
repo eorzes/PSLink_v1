@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l0_N
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l0_P
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l1_N
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l1_P
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l2_N
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l2_P
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l3_N
+Removed Member From Class: ClassName=Match_CDR_DFF Member=CLOCK_OUT_C_l3_P
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l0_N
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l0_P
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l1_N
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l1_P
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l2_N
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l2_P
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l3_N
+Removed Member From Class: ClassName=Match_FAN_CDR Member=DATA_IN_C_l3_P
+Added Class: Name=Match_CDR_DFF_C
+Added Class: Name=Match_FAN_CDR_C

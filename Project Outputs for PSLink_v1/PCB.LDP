@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: C:\Users\eorzes\cernbox\Altium\PSLink_v1\PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb.txt|DrillLayers=gtl,gp1,g1,gp2,g2,gp3,gp4,g3,gp5,g4,gp6,gbl
+LayersSetName=Top_uStrip1_Blind_Vias|DrillFile=pcb.tx1|DrillLayers=gtl,gp1,g1
+LayersSetName=uStrip1_uStrip2_Buried_Vias|DrillFile=pcb.tx3|DrillLayers=g1,gp2,g2,gp3,gp4,g3,gp5,g4
+LayersSetName=uStrip2_Bot_Blind_Vias|DrillFile=pcb.tx5|DrillLayers=g4,gp6,gbl
+LayersSetName=Top_Clocks_BackDrill|DrillFile=pcb.tx12|DrillLayers=gtl,gp1,g1,gp2,g2
+LayersSetName=Clocks_Bot_BackDrill|DrillFile=pcb.tx14|DrillLayers=g2,gp3,gp4,g3,gp5,g4,gp6,gbl

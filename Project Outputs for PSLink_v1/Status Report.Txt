@@ -1,0 +1,17 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PSLink_v1.PrjPcb]
+   Generated File[PCB.TXT]
+   Generated File[PCB.TX1]
+   Generated File[PCB.TX3]
+   Generated File[PCB.TX5]
+   Generated File[PCB.TX12]
+   Generated File[PCB.TX14]
+   Generated File[PCB.LDP]
+   Generated File[PCB.DRR]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 17:56:26 On 08/05/2025

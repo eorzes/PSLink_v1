@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=VADJ Pin=C90-2
+Removed Pin From Net: NetName=VADJ Pin=IC10-1
+Removed Pin From Net: NetName=VADJ Pin=IC10-2
+Removed Pin From Net: NetName=VADJ Pin=IC10-21
+Removed Pin From Net: NetName=VADJ Pin=IC10-24
+Removed Pin From Net: NetName=ADJ_SCL Pin=W5-2
+Removed Pin From Net: NetName=ADJ_SDA Pin=W6-2
+Change Component Comment : Designator=R25 Old Comment=2k4 New Comment=5k1
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RESC1005X40N"; UniqueID = "\KQHXEXVH\THDFAVJY" ("\KQHXEXVH\THDFAVJY")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "03/12/2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17/10/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 Example"; Value = "YAGEO PHYCOMP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer1 Part Number"; Value = "232270675102L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "R0402_5K1_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "R0402_5K1_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.0625W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5k1"; VariantName = "[No Variations]"
+Added Component: Designator=R64(MURATA_HI_DENSITY_0201)
+Add component (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Added Component: Designator=R78(MURATA_HI_DENSITY_0201)
+Add component (AddParameter): Name = "Value"; Value = "100O"; VariantName = "[No Variations]"
+Added Component: Designator=TP17_l0(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17_l1(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17_l2(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17_l3(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP18(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1V8 Pin=C90-2
+Added Pin To Net: NetName=1V8 Pin=IC10-1
+Added Pin To Net: NetName=1V8 Pin=IC10-2
+Added Pin To Net: NetName=1V8 Pin=IC10-21
+Added Pin To Net: NetName=1V8 Pin=IC10-24
+Added Pin To Net: NetName=1V8 Pin=R64-2
+Added Pin To Net: NetName=1V8 Pin=R78-2
+Added Pin To Net: NetName=NetIC3_l0_4 Pin=TP17_l0-1
+Added Pin To Net: NetName=NetIC3_l1_4 Pin=TP17_l1-1
+Added Pin To Net: NetName=NetIC3_l2_4 Pin=TP17_l2-1
+Added Pin To Net: NetName=NetIC3_l3_4 Pin=TP17_l3-1
+Added Pin To Net: NetName=PLL_Lock Pin=TP18-1
+Added Pin To Net: NetName=SCL_PLL Pin=IC10-18
+Added Pin To Net: NetName=SCL_PLL Pin=R78-1
+Added Pin To Net: NetName=SCL_PLL Pin=W5-2
+Added Net: Name=SCL_PLL
+Added Pin To Net: NetName=SDA_PLL Pin=IC10-17
+Added Pin To Net: NetName=SDA_PLL Pin=R64-1
+Added Pin To Net: NetName=SDA_PLL Pin=W6-2
+Added Net: Name=SDA_PLL
+Added Member To Class: ClassName=U_FMC Member=Component R64 10k
+Added Member To Class: ClassName=U_FMC Member=Component R78 10k
+Added Member To Class: ClassName=U_PLL Member=Component TP18 RCU-0C
