@@ -1,21 +1,24 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\eorzes\cernbox\Altium\PSLink_v1\PCB.PcbDoc
-Date     : 16/05/2025
-Time     : 12:44:55
+Date     : 20/05/2025
+Time     : 15:20:33
+
+Processing Rule : Clearance Constraint (Gap=4mil) (HasFootprint('CONSMA022-G') and InNetClass('50ohm')),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=4mil) (InNetClass('50ohm') and (OnLayer('Clocks'))),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (InNetClass('50ohm') and (OnLayer('uStrip1') or OnLayer('uStrip2'))),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (HasFootprint('CONSMA022-G')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (HasFootprint('CONSMA022-G') and InNetClass('50ohm')),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0mil) (InPolygon),(IsKeepOut and OnLayer('Keep-Out Layer'))
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (HasFootprint('CONSMA022-G')),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (InNetClass('50ohm') and (OnLayer('uStrip1') or OnLayer('uStrip2'))),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=4mil) (InAnyDifferentialPair and not(InNetClass('50ohm')) and (OnLayer('Top Layer') or OnLayer('Bottom Layer'))),(All)
@@ -33,13 +36,10 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=4mil) (InAnyDifferentialPair and not(InNetClass('50ohm')) and OnLayer('Clocks')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (IsVia and InNetClass('Back-Drill')),(not(IsVia and InNetClass('Back-Drill')))
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=4mil) (isVia and InAnyDifferentialPair and not(InNetClass('50ohm'))),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=4mil) (IsVia and InNetClass('Back-Drill')),(not(IsVia and InNetClass('Back-Drill')))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -60,16 +60,16 @@ Rule Violations :0
 Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=3.937mil) (MaxHoleWidth=3.937mil) (PreferredHoleWidth=3.937mil) (MinWidth=9.842mil) (MaxWidth=9.842mil) (PreferedWidth=9.842mil) (InDrillLayerPair('Top Layer - uStrip1') or InDrillLayerPair('uStrip2 - Bottom Layer'))
-Rule Violations :0
-
-Processing Rule : Routing Via (MinHoleWidth=9.842mil) (MaxHoleWidth=9.842mil) (PreferredHoleWidth=9.842mil) (MinWidth=19.685mil) (MaxWidth=19.685mil) (PreferedWidth=19.685mil) (InDrillLayerPair('uStrip1 - uStrip2'))
-Rule Violations :0
-
 Processing Rule : Routing Via (MinHoleWidth=9.842mil) (MaxHoleWidth=15.748mil) (PreferredHoleWidth=9.842mil) (MinWidth=19.685mil) (MaxWidth=23.622mil) (PreferedWidth=19.685mil) (All)
 Rule Violations :0
 
+Processing Rule : Routing Via (MinHoleWidth=3.937mil) (MaxHoleWidth=3.937mil) (PreferredHoleWidth=3.937mil) (MinWidth=9.842mil) (MaxWidth=9.842mil) (PreferedWidth=9.842mil) (InDrillLayerPair('Top Layer - uStrip1') or InDrillLayerPair('uStrip2 - Bottom Layer'))
+Rule Violations :0
+
 Processing Rule : Routing Via (MinHoleWidth=9.842mil) (MaxHoleWidth=19mil) (PreferredHoleWidth=9.842mil) (MinWidth=19.685mil) (MaxWidth=24mil) (PreferedWidth=19.685mil) (IsVia and InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=9.842mil) (MaxHoleWidth=9.842mil) (PreferredHoleWidth=9.842mil) (MinWidth=19.685mil) (MaxWidth=19.685mil) (PreferedWidth=19.685mil) (InDrillLayerPair('uStrip1 - uStrip2'))
 Rule Violations :0
 
 Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=7.5mil) (Max=8.3mil) (Prefered=8.3mil)  and Width Constraints (Min=3.7mil) (Max=4.5mil) (Prefered=4.5mil) (InDifferentialPairClass('All Differential Pairs'))
@@ -81,34 +81,31 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=25mil) (Air Gap=7mil) (Entries=4) (InComponentClass('PWR_Jumper') or HasFootprint('TE_282837-2'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (HasFootprint('CONSMA022-G'))
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('Frame_Holes'))
-Rule Violations :0
-
-Processing Rule : Minimum Annular Ring (Minimum=3.937mil) (not IsVia)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('Frame-Holes'))
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=2.949mil) (InDrillLayerPair('Top Layer - uStrip1') or InDrillLayerPair('uStrip2 - Bottom Layer'))
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=3.937mil) (Max=3.937mil) (InDrillLayerPair('Top Layer - uStrip1') or InDrillLayerPair('uStrip2 - Bottom Layer'))
+Processing Rule : Minimum Annular Ring (Minimum=3.937mil) (not IsVia)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=9.842mil) (Max=255.905mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=16mil) (All),(All)
+Processing Rule : Hole Size Constraint (Min=3.937mil) (Max=3.937mil) (InDrillLayerPair('Top Layer - uStrip1') or InDrillLayerPair('uStrip2 - Bottom Layer'))
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=13.78mil) (Isvia),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (BackDrillBottom or BackDrillTop),(All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (InDrillLayerPair('Top Layer - uStrip1') or InDrillLayerPair('uStrip2 - Bottom Layer')),(All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0mil) (BackDrillBottom or BackDrillTop),(All)
+Processing Rule : Hole To Hole Clearance (Gap=13.78mil) (Isvia),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=16mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
@@ -123,11 +120,18 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) ((IsTrack or IsArc or IsPad or IsPoly or IsRegion or IsFill or IsCutoutRegion) and not OnBottomSilkscreen)
+Processing Rule : Board Clearance Constraint (Gap=0mil) (IsPolygon and InNet('GND'))
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (not OnBottomSilkscreen)
-Rule Violations :0
+Processing Rule : Board Clearance Constraint (Gap=0mil) (not OnBottomSilkscreen and not(HasFootprint
+('20072631_NP')) and not(IsPolygon and InNet('GND')))
+   Violation between Board Outline Clearance(Outline Edge): (0mil < 11mil) Between Board Edge And Polygon Region (381 hole(s)) Slow_Ctrl 
+   Violation between Board Outline Clearance(Outline Edge): (0mil < 11mil) Between Board Edge And Polygon Region (397 hole(s)) uStrip2 
+   Violation between Board Outline Clearance(Outline Edge): (0mil < 11mil) Between Board Edge And Polygon Region (468 hole(s)) Clocks 
+   Violation between Board Outline Clearance(Outline Edge): (0mil < 11mil) Between Board Edge And Polygon Region (477 hole(s)) Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0mil < 11mil) Between Board Edge And Polygon Region (488 hole(s)) uStrip1 
+   Violation between Board Outline Clearance(Outline Edge): (0mil < 11mil) Between Board Edge And Polygon Region (640 hole(s)) Bottom Layer 
+Rule Violations :6
 
 Processing Rule : Matched Lengths(Tolerance=2mil) (InDifferentialPairClass('All Differential Pairs'))
 Rule Violations :0
@@ -174,47 +178,7 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Clearance Constraint (Gap=4mil) (All),(All)
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-   Waived Violation between Clearance Constraint: (0.2mil < 4mil) Between Split Plane  (GND) on GND_12 And Split Plane  (No Net) on GND_12 Waived by Edoardo Orzes at 16/05/2025 12:44:43Edge plating GND split planes on curved edges
-Waived Violations :37
 
-
-Violations Detected : 0
-Waived Violations : 37
-Time Elapsed        : 00:00:10
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:08
