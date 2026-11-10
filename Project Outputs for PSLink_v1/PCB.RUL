@@ -1,4 +1,6 @@
-DRC Rules Export File for PCB: C:\Users\eorzes\cernbox\Altium\PSLink_v1\PCB.PcbDoc
+DRC Rules Export File for PCB: C:\Altium-new\PSLink_v1\PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Coplanar_via_diff|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_backdrill|Scope=Board|Minimum=4.00
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
 RuleKind=Clearance|RuleName=Clearance_copper_keepout|Scope=Board|Minimum=0.00

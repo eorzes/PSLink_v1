@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB.GBR   08/05/2025  17:54:57
+Gerber File Extension Report For: PCB.GBR   11/10/2026  1:34:56 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -25,11 +25,22 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM2                Top Assembly                            
 .GM3                Mechanical 3                            
+.GM4                Bottom Assembly                         
+.GM5                Top 3D Body                             
+.GM6                Top Courtyard                           
+.GM7                Bottom 3D Body                          
 .GM8                Mechanical 8                            
+.GM9                Dimensions                              
+.GM11               Top Designator                          
+.GM12               Bottom Designator                       
 .GM13               Mechanical 13                           
 .GM14               Mechanical 14                           
 .GM15               Mechanical 15                           
+.GM16               Bottom Courtyard                        
+.GM17               Top Component Center                    
+.GM18               Bottom Component Center                 
 .GM20               Mechanical 20                           
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
